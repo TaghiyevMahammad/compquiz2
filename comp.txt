@@ -1,0 +1,4208 @@
+1. What operation is repeatedly used to convert a decimal number to binary?
+• Multiplication by 2
+• Subtraction of 2
+• Exponentiation by 2
+√ Division by 2
+• Addition of 2
+2. What base is the binary number system?
+√ Base 2
+• Base 4
+• Base 8
+• Base 22
+• Base 16
+3. What is the first step in converting a decimal number to binary?
+√ Divide the decimal number by 2
+• Add 2 to the decimal number
+• Multiply the decimal number by 2
+• Divide the decimal number by 10
+• Subtract 2 from the decimal number
+4. What is the first step to convert a number from any base to decimal?
+√ Multiply each digit by its corresponding power of the base
+• Multiply the number by ten
+• Divide the number by the base
+• Add the digits together
+• Subtract each digit from the base
+5. In the binary system, what does each digit represent?
+• A power of three
+• A power of eight
+• A power of ten
+√ A power of two
+• A power of sixteen
+6. What must you understand before converting a number from one number system to another?
+• The size of the memory
+• The operating system being used
+• The network configuration
+√ The values of each digit in the current number system
+• The speed of the computer
+7. What is an important skill in computer science when working with binary, octal, and hexadecimal numbers?
+√ Converting between number systems
+• Writing complex algorithms
+• Designing user interfaces
+• Creating 3D graphics
+• Managing databases
+8. Which number system is often used in computer programming and digital electronics, and includes digits 0 through 9 and A through F?
+• Quaternary number system
+• Binary number system
+• Octal number system
+√ Hexadecimal number system
+• Decimal number system
+9. What is the range of digits used in the octal number system?
+• 0 through 8
+• 0 and 1
+• 0 through 9
+√ 0 through 7
+• 0 through F
+10. How many digits does the decimal number system use to represent numbers?
+• 2 digits (0 and 1)
+• 16 digits (0 through 9 and A through F)
+• 8 digits (0 through 7)
+√ 10 digits (0 through 9)
+• 12 digits (0 through B)
+11. What is the most fundamental number system used in computer science?
+√ Binary number system
+• Ternary number system
+• Hexadecimal number system
+• Decimal number system
+• Octal number system
+12. What is a key focus of the fifth generation of computers (in development)?
+• Quantum chips
+• Silicon chips
+• Vacuum tubes
+• Integrated circuits (ICs)
+√ Artificial intelligence (AI)
+13. What type of data does not change during program execution?
+• Functions
+• Classes
+• Variables
+• Arrays
+√ Constants
+14. What major advancement characterized the fourth generation of computers (1971–present)?
+• Vacuum tubes
+• Silicon chips
+• Quantum chips
+√ Microprocessors
+• Integrated circuits (ICs)
+15. What replaced transistors in third-generation computers (1964-1971)
+• Vacuum tubes
+• Silicon chips
+• Quantum chips
+√ Integrated circuits (ICs)
+• Microprocessors
+16. Which high-level programming languages were developed during the second generation (1956-1963)
+√ COBOL and FORTRAN
+• C++ and Ruby
+• Java and Python
+• Swift and Kotlin
+• HTML and CSS
+17. What was the main technology used in first-generation computers (1940-1956)
+• Microprocessors
+• Integrated circuits
+• Transistors
+• Quantum chips
+√ Vacuum tubes
+18. How many bits are in a byte?
+• 2 bits
+• 16 bits
+• 32 bits
+• 4 bits
+√ 8 bits
+19. Which two symbols are used to represent bits?
+• 8 and 9
+• 2 and 3
+• 6 and 7
+√ 0 and 1
+• 4 and 5
+20. What is the smallest unit of information's volume measurement?
+• Megabyte
+• Byte
+• Kilobyte
+√ Bit
+• Gigabyte
+21. What technological advancement allowed for millions of transistors to be placed on a single chip by the 1980s?
+• Optical computing
+• Quantum computing
+• Nanotechnology
+√ Very Large Scale Integration (VLSI)
+• Artificial intelligence
+22. What is the purpose of data storage?
+• Data are encrypted for security
+• Data are shared across networks
+• Data are analyzed for insights
+√ Data are retained in an organized manner
+• Data are transferred between systems
+23. What function did Leibniz's calculating machine include that Pascal's did not?
+• Data storage
+√ Multiplication and division
+• Addition and subtraction
+• Printing results
+• Reading punched cards
+24. In what year did Blaise Pascal build his calculating machine?
+• 1692
+• 1646
+• 1766
+√ 1642
+• 1762
+25. Who was the first person to build a working calculating machine?
+• Charles Babbage
+• John von Neumann
+• Alan Turing
+√ Blaise Pascal
+• Gottfried Wilhelm von Leibniz
+26. What does the operation "isEmpty" do in the context of queues?
+• Gets the first element
+• Returns true if the queue is full
+• Inserts an element at the end
+√ Returns true if the queue is empty
+• Removes an element from the beginning
+27. What is the operation "Dequeue" in the context of queues?
+• Insertion at the beginning
+• Insert at the end
+• Check if the queue is empty
+√ Removal from the beginning
+• Getting the first element
+28. What is the operation "Enqueue" in the context of queues?
+• Insertion at the beginning
+• Removal from the beginning
+• Check if the queue is empty
+√ Insert at the end
+• Getting the first element
+29. What is a real-life example of a stack?
+• chain of nodes
+• line of people waiting for a bus
+• A row of parked cars
+√ A bunch of books stacked on top of each other
+• A chain of linked nodes
+30. How many types of arrays are there?
+• Three types: Single-dimensional, double-dimensional, triple-dimensional arrays
+• Multiple types: Varying based on usage
+• One type: Single-dimensional arrays
+√ Two types: One-dimensional arrays and multidimensional arrays
+• Four types: One-dimensional, two-dimensional, three-dimensional, four-dimensional arrays
+31. What is a Hash Table in the context of data structures?
+• A linear data structure consisting of elements arranged sequentially
+• A fixed-size sequence of elements
+• A non-linear data structure used for hierarchical representation
+√ A data structure used for key-value pairing
+• A collection of nodes connected by edges
+32. What is a Graph in the context of data structures?
+• A non-linear data structure used for hierarchical representation
+• A linear data structure consisting of elements arranged sequentially
+• A non-linear data structure used for hierarchical representation
+• A fixed-size sequence of elements
+√ A collection of nodes connected by edges
+33. Which data structure is used for hierarchical representation of data?
+• Hash Table
+• Array
+• Stack
+√ Tree
+• Queue
+34. What is a Linked List in the context of data structures?
+• A data structure used for key-value pairing
+• A non-linear data structure used for hierarchical representation
+• A collection of nodes connected by edges
+√ A linear data structure consisting of nodes where each node contains a data element and a reference to the next node
+• A fixed-size sequence of elements
+35. What is a Queue in the context of data structures?
+• A collection of nodes connected by edges
+• A fixed-size sequence of elements
+• A data structure used for key-value pairing
+√ A linear data structure that follows the First In First Out (FIFO) principle
+• A non-linear data structure used for hierarchical representation
+36. What is a Stack in the context of data structures?
+• A data structure used for key-value pairing
+• A non-linear data structure used for hierarchical representation
+• A collection of nodes connected by edges
+√ A linear data structure that follows the Last In First Out (LIFO) principle
+• A fixed-size sequence of elements
+37. Which of the following is a commonly used data structure?
+√ Array
+• Variables
+• Object
+• Functions
+• Classes
+38. Which type of data structure can be traversed on a single run?
+• Non-linear data structures
+• Graph data structures
+• Hierarchical data structures
+√ Linear data structures
+• Circular data structures
+39. What is a characteristic of non-linear data structures regarding layers?
+• All the items are present on a single layer
+• The data items are interconnected in a loop
+• The data items are randomly distributed
+√ The data items are present at different layers
+• The data items are arranged in a circular manner
+40. Which type of data structures include trees, graphs, and maps as examples?
+√ Non-linear data structures
+• Hierarchical data structures
+• Graph data structures
+• Complex data structures
+• Linear data structures
+41. Which type of data structures include arrays, stacks, and queues as examples?
+• Hierarchical data structures
+• Non-linear data structures
+• Complex data structures
+• Graph data structures
+√ Linear data structures
+42. What is the memory utilization like in linear data structures?
+• Random
+• Highly efficient
+• Dynamic
+• Variable
+√ Not efficient
+43. Which type of data structure requires multiple runs to traverse all elements?
+• Circular data structures
+• Static data structures
+• Sequential data structures
+√ Non-linear data structures
+• Linear data structures
+44. In which type of data structure are all items present on a single layer?
+√ Linear data structures
+• Hierarchical data structures
+• Non-linear data structures
+• Circular data structures
+• Graph data structures
+45. How are the data items arranged in non-linear data structures?
+• Random order
+• Sequential order, one after the other
+• Circular order
+• Interconnected nodes
+√ Hierarchical manner
+46. How many input lines can a NAND gate have?
+• One input line
+• Only one input line
+• Four input lines
+√ Two or more input lines
+• Three input lines
+47. What operation does the NAND gate perform?
+• The combination of the XOR and NOR gates
+• The same operation as the OR gate
+• The same operation as the AND gate
+√ The inverted operation of the AND gate
+• The inverted operation of the OR gate
+48. What type of logic gate is the NAND gate?
+• An analog logic gate
+• A hybrid logic gate
+• A basic logic gate
+• A derived logic gate
+√ A universal logic gate
+49. What are the derived logic gates?
+• NOT Gate, OR Gate
+√ XOR Gate, XNOR Gate
+• NOR Gate, NAND Gate, OR Gate
+• AND Gate, OR Gate
+• AND Gate, NAND Gate
+50. What are the two universal logic gates?
+• AND Gate, OR Gate
+√ NOR Gate, NAND Gate
+• XNOR Gate, NOR Gate
+• AND Gate, XNOR Gate
+• NOT Gate, XOR Gate
+51. What are the three basic logic gates?
+• NOR Gate, NAND Gate, XOR Gate
+√ AND Gate, OR Gate, NOT Gate
+• AND Gate, XOR Gate, NAND Gate
+• OR Gate, NOT Gate, XNOR Gate
+• XOR Gate, XNOR Gate, NOR Gate
+52. Which of the following is considered a universal logic gate in digital electronics?
+• XOR Gate
+√ NOR Gate
+• AND Gate
+• OR Gate
+• XNOR Gate
+53. Which of the following is NOT a basic logic gate?
+• AND Gate
+√ NAND Gate
+• NOT Gate
+• All are basic logic gates
+• OR Gate
+54. Which two basic components are used to represent the NAND gate?
+• OR gate and NOT gate
+√ AND gate and NOT gate
+• AND gate and OR gate
+• NOR gate and NOT gate
+• XOR gate and NOR gate
+55. What mathematical concept do logic gates use to execute logical processes?
+• Differential calculus
+√ Boolean algebra
+• Linear programming
+• Probability theory
+• Matrix algebra
+56. How many inputs can a logic gate take, and how many outputs does it produce?
+• One input and one output
+√ Two or more inputs, but only one output
+• Two or more inputs, and two or more outputs
+• Three inputs and three outputs
+• One input and two outputs
+57. What is the main purpose of a logic gate in digital systems?
+• To store data
+√ To perform logical operations
+• To visualize data
+• To compress data
+• To transmit data
+58. What is a logic gate?
+• A mechanical device used for data storage
+√ An electronic circuit designed using components like diodes, transistors, and resistors to perform logical operations
+• A network protocol for data transmission
+• A graphical user interface
+• A software program for data analysis
+59. What was one of the primary uses of Boolean algebra after George Boole's death?
+• To solve complex calculus problems
+√ To describe and model electrical switch circuits
+• To create advanced computer graphics
+• To enhance statistical analysis techniques
+• To develop new theories in physics
+60. What are the basic operations of Boolean algebra?
+• Addition, subtraction, multiplication, and division
+√ Conjunction (AND), disjunction (OR), and negation (NOT)
+• Union, intersection, and complement
+• Combination, permutation, and association
+• Integration, differentiation, and summation
+61. How many types of logic gates are there in digital electronics?
+• Three
+√ Seven
+• Nine
+• Ten
+• Five
+62. How is Boolean algebra different from elementary algebra?
+• Boolean algebra deals with numerical operations, whereas elementary algebra deals with logical operations
+√ Boolean algebra deals with logical operations, whereas elementary algebra deals with numerical operations
+• Boolean algebra deals with statistical operations, whereas elementary algebra deals with logical operations
+• Boolean algebra deals with symbolic operations, whereas elementary algebra deals with numerical operations
+• Boolean algebra deals with geometric operations, whereas elementary algebra deals with numerical operations
+63. Which operating system was one of the first to be written in the C language?
+• Mac OS
+√ Unix
+• Linux
+• Android
+• Windows
+64. What are two examples of mobile operating systems?
+• VxWorks and Mac OS
+√ Apple iOS and Google Android
+• Cisco Internetwork Operating System (IOS) and RouterOS
+• FreeRTOS and VxWorks
+• Unix and Linux
+65. Which two examples are real-time operating systems (RTOSes)?
+• Cisco Internetwork Operating System (IOS) and RouterOS
+√ FreeRTOS and VxWorks
+• Windows and Mac OS
+• Apple iOS and Google Android
+• Unix and Linux
+66. When does the kernel load into the main memory?
+• When the user logs in
+√ When the operating system boots
+• When data is saved to disk
+• When a file is opened
+• When an application is launched
+67. What tasks does the kernel perform in kernel space?
+• Running applications and accessing files
+√ Executing processes and handling interrupts
+• Managing user preferences
+• Displaying graphical interfaces
+• Interacting with the user
+68. How does the kernel interact with the user?
+• Directly through the user interface
+√ Using SHELL and other programs and hardware
+• Using network protocols
+• By executing arithmetic operations
+• Through memory management
+69. What does the scheduler in the kernel do?
+• Grants permission to use computer system resources
+√ Allocates the Kernel’s processing time to various processes
+• Allocates space in memory
+• Controls hardware functions
+• Handles requests from hardware devices
+70. What is the role of the supervisor in the kernel?
+• Allocates the Kernel’s processing time to various processes
+√ Grants permission to use computer system resources for each process
+• Allocates space in memory
+• Provides file management services
+• Handles requests from hardware devices
+71. What does the interrupt handler in the kernel do?
+• Allocates the Kernel’s processing time to various processes
+√ Handles all requests from the various hardware devices that compete for kernel services
+• Allocates space in memory
+• Provides file management services
+• Grants permission to use computer system resources for each process
+72. How do user applications request services from the kernel?
+• Through direct access to hardware components
+√ Through system calls, also known as software-interrupts
+• Through network protocols
+• Through graphical interfaces
+• Through web browsers
+73. Why are user applications not given access to privileged resources?
+• Due to performance issues
+√ Due to security reasons
+• Due to compatibility problems
+• Due to user interface design
+• Due to memory limitations
+74. What do user applications request from the operating system through system calls?
+• Displaying user interfaces
+√ User applications request services like process management, memory allocation, file operations, device interaction
+• Storing data permanently
+• User applications request executing arithmetic and logic operations
+• Managing network connections
+75. Where does the kernel reside in the operating system?
+• In the user area of memory
+√ In the central core of the OS
+• In the network buffer
+• In the display memory
+• In the secondary storage
+76. What is a key characteristic of a multiprocessing operating system?
+• It runs multiple programs without user interaction
+√ It utilizes multiple processors to perform tasks sequentially
+• It manages network communication between devices
+• It controls embedded systems
+• It provides real-time processing for critical applications
+77. What do file systems provide?
+• Instructions for running applications
+• Network communication protocols
+• Encryption for data security
+√ Conventions for the encoding, storage, and management of data on a storage device
+• User interfaces for operating systems
+78. Which file system is used in older versions of Windows?
+• HFS+
+• FAT32
+• NTFS
+• EXT3
+√ FAT16
+79. Which file system is used in newer versions of Windows?
+• HFS+
+• EXT3
+• FAT16
+√ NTFS
+• FAT32
+80. What type of storage media does the operating system use for file backup?
+• Network storage media
+• Peripheral storage media
+• Temporary storage media
+• Volatile storage media
+√ Stable (nonvolatile) storage media
+81. Which of the following is a hard real-time system used in transportation?
+• DVD players
+• Mobile communication
+• Virtual reality
+√ Railway signaling system
+• Online transaction systems
+82. Which system ensures safe landing and takeoff of airplanes?
+• Audio and video systems
+• Electronic games
+√ Air traffic control systems
+• Telephone switches
+• Web browsing
+83. What kind of real-time system is an anti-missile system?
+• Network operating system
+• General-purpose operating system
+• Embedded operating system
+√ Hard real-time system
+• Soft real-time system
+84. Which system allows users to perform online banking and shopping?
+• Flight control systems
+• Anti-missile system
+• Nuclear reactor control systems
+√ Online transaction systems
+• Medical system (Pacemakers)
+85. What is the purpose of the Memory Address Register (MAR)?
+• Handling logical operations
+• Storing arithmetic results
+• Managing floating-point operations
+√ Holding the memory address of the data or instruction to be accessed
+• Controlling CPU execution speed
+86. Which register temporarily stores data being transferred to or from memory?
+• Memory Address Register (MAR)
+• Index Register (IR)
+• Stack Pointer (SP)
+√ Memory Data Register (MDR)
+• Accumulator Register
+87. Which register keeps track of the next instruction to be executed?
+• Stack Pointer (SP)
+• Index Register (IR)
+• Accumulator Register
+• Memory Address Register (MAR)
+√ Program Counter (PC) Register
+88. What is the primary function of a register in the CPU?
+• Managing external memory devices
+• Storing long-term data
+• Optimizing power distribution
+√ Providing temporary high-speed storage for immediate processing
+• Controlling input/output operations
+89. What is the function of the Northbridge in a motherboard?
+• Controlling power distribution across components and managing faster interactions between the CPU and the RAM
+• Handling slower peripheral communication and storing system boot instructions
+• Storing system boot instructions
+√ Managing faster interactions between the CPU, RAM, ROM, BIOS, AGP, and the Southbridge
+• Managing only input and output devices
+90. What role does the Southbridge play in the chipset?
+• Directly linking input signals to the CPU
+• Managing RAM and BIOS communication
+• Optimizing arithmetic operations
+• Controlling CPU execution speed
+√ Handling slower connections, such as I/O devices and peripherals
+91. What are the two main sections of a chipset?
+• Processor core and I/O manager
+• Cache and RAM controller
+• Instruction decoder and data bus
+√ Northbridge and Southbridge
+• ALU and control unit
+92. What is the primary function of a chipset in a motherboard?
+• Managing power distribution
+• Controlling the flow of data and instructions between the CPU and GPU
+• Storing system instructions
+√ Controlling the flow of data and instructions between the CPU and external devices
+• Handling only graphics-related tasks
+93. How does a Quad-Core CPU improve performance?
+√ It executes multiple instructions simultaneously without increasing clock speed
+• It restricts multitasking capabilities
+• It operates only under specific software conditions
+• It boosts clock speed beyond normal limits
+• It reduces execution speed intentionally
+94. What distinguishes a Quad-Core CPU from a Dual-Core CPU?
+• It requires external memory modules
+• It only works for low-power applications
+• It operates at a higher clock speed
+• It reduces performance compared to single-core CPUs
+√ It contains four independent cores
+95. How many cores does a Dual-Core CPU have?
+• Four independent cores
+• Five independent cores
+√ Two cores within a single integrated circuit
+• Multiple threads but only one core
+• A single processing unit
+96. What is a key characteristic of a Single-Core CPU?
+• It was introduced in the 1990s
+• It contains multiple processing cores
+• It is the fastest type of CPU
+• It has separate caches for each core
+√ It can only process one operation at a time
+97. How many instructions does the CPU execute per clock cycle?
+• None, it only controls timing
+• Only arithmetic operations
+• One instruction
+• Multiple instructions simultaneously
+√ It depends on the CPU architecture
+98. What does each clock cycle represent?
+• A signal to external peripherals
+• A single memory access
+• A CPU shutdown sequence
+√ A fixed amount of time
+• A complete operating system process
+99. What does the CPU clock generate?
+• Interrupt signals
+• Storage addresses
+√ A series of clock cycles
+• Machine code instructions
+• Electrical pulses for power management
+100. What is the primary function of the CPU clock?
+• Executing arithmetic operations
+• Storing instructions
+• Managing memory allocation
+√ Synchronizing the operations of all CPU components
+• Controlling input/output devices
+101. What is the function of the logic unit (LU) in the ALU?
+• Storing instructions and performing Boolean operations (AND, OR, XOR, NOT)
+• Managing processor control
+• Carrying out arithmetic calculations
+√ Performing Boolean operations (AND, OR, XOR, NOT)
+• Switching between registers
+102. What restricts the use of General-Purpose Registers?
+• They cannot store operands
+• They can only store instructions
+• They are only used for input/output operations
+√ Some registers may be dedicated to specialized operations, such as floating-point arithmetic
+• They are meant exclusively for system processes
+103. Which stage involves executing operations on data?
+• Fetch Instructions
+• Write Data
+• Fetch Data
+√ Process Data
+• Interpret Instructions
+104. What happens during instruction interpretation?
+• Writing data to memory or I/O module
+• Transferring data to registers
+• Retrieving data from memory
+• Performing arithmetic or logical operations
+√ Decoding the instruction to determine the required action
+105. What is the first step of the instruction cycle in a CPU?
+• Interpret Instructions
+• Write Data
+• Process Data
+√ Fetch Instructions
+• Fetch Data
+106. What is a possible drawback of using virtual memory extensively?
+• Increased RAM efficiency with no performance loss
+• Elimination of the need for storage devices
+√ Slower system performance due to disk swapping
+• Direct enhancement of CPU clock speed
+• Reduced file transfer speeds between devices
+107. When does a computer retrieve data from virtual memory?
+• When the processor executes only background processes
+• When an operating system updates automatically
+√ When it needs previously swapped data back into the RAM
+• When network communication is disrupted
+• When new programs are installed
+108. Which of the following is a key component of virtual memory management?
+• Reduction in CPU workload by avoiding memory swaps
+• Data compression without disk access
+• A permanent partition replacing the system’s RAM
+√ Memory pages are stored on a hard drive or SSD
+• Increased network bandwidth for faster data retrieval
+109. How does a Network-Attached Storage (NAS) system help in managing data?
+• Limiting the number of connected devices
+• Providing physical security for data storage only
+• Operating solely as a media player
+• Restricting access to a single user
+√ Storing, organizing, and retrieving data across devices
+110. Where are Network-Attached Storage (NAS) devices most commonly used?
+• Personal computers without network connections
+• Large-scale data centers only
+• Devices specifically for gaming
+√ Homes, small offices, and businesses
+• Temporary storage solutions for short-term projects
+111. Which of the following is a security feature commonly found in Network-Attached Storage (NAS) systems?
+• Lack of password protection
+• Limited user authentication
+• No encryption options
+√ User access control
+• Public file sharing without restrictions
+112. What is the primary function of a Network-Attached Storage (NAS) device?
+• A device used only for media streaming
+• A cloud-based storage solution
+• A local backup system without network access
+√ A centralized storage system for multiple users and devices
+• A direct replacement for external hard drives
+113. What is the primary purpose of Graphics Double Data Rate (GDDR) Synchronous dynamic random access memory (SDRAM)?
+• Replacing standard DDR memory in general computing tasks
+• Reducing bandwidth to limit video processing capabilities
+• Managing CPU cache memory instead of graphics processing
+√ Supporting high-speed data transfer for graphics-intensive applications like gaming and video rendering
+• Restricting GPU memory performance to conserve power
+114. How does Synchronous dynamic random access memory (SDRAM) improve memory efficiency?
+• By working exclusively in offline storage environments
+• By preventing real-time memory access
+• By transferring data between different memory modules without synchronization
+√ By synchronizing with the system clock speed, enabling steady data transfers
+• By randomly accessing stored data without timing control
+115. How are embedded systems used in military applications?
+• They restrict access to navigation data for military operations.
+• They primarily regulate climate control within military vehicles.
+• They enhance the visual design of defense equipment.
+√ They support surveillance systems, weapon control, and secure communication networks.
+• They replace traditional training methods for personnel.
+116. How does a microphone contribute to computer functionality?
+• It enables graphical rendering in gaming applications
+• It translates text into audio for document editing
+• It manages networking functions for online communication
+√ It allows users to input sounds and give voice commands through recognition systems
+• It serves as a primary tool for screen navigation
+117. What is the main function of a mouse?
+• Controls power management settings in an operating system
+• Directly inputs text-based commands into applications
+• Stores files on external storage devices
+√ Allows users to guide the pointer and select actions on the screen
+• Converts digital signals into audio feedback
+118. What is the primary role of a keyboard in a computer system?
+• Controls the graphical display settings of a monitor
+• Processes audio signals for sound input
+√ Allows users to enter instructions using symbols and numbers
+• Captures high-resolution images and videos
+• Manages physical connections between hardware components
+119. What are common image and video input peripherals?
+• Printers and ink cartridges, and digital cameras.
+• Wireless network adapters and digital cameras.
+√ Webcams, scanners, microphones, and digital cameras.
+• Power supply units and voltage regulators.
+• Display screens, graphics tablets, and video projectors.
+120. What are examples of Human Interface Devices (HIDs)?
+• Wireless routers and modems.
+• Memory cards and storage chips.
+• Speakers and headphones.
+• Hard drives and solid-state drives.
+√ Keyboards, mice, trackpads, joysticks, gamepads, and touchscreens.
+121. What is the primary function of input peripherals?
+• They store data permanently within the system.
+• They enhance the computer’s processing speed.
+• They function exclusively as display components.
+• They regulate power consumption in computing devices.
+√ They allow users to provide the computer with data.
+122. Why are modems and network interfaces categorized as input/output devices?
+• They store network traffic permanently for analysis.
+• They are primarily designed for short-range wireless connections.
+• They regulate signal strength rather than processing data.
+• They replace traditional display interfaces in computing systems.
+√ They enable both the transmission and reception of data between computers, making them essential for networking.
+123. How can wearable devices like fitness trackers and smartwatches be considered peripherals?
+• They serve exclusively as decorative accessories.
+• They eliminate the need for external storage units.
+√ They function independently but can also connect to computers or smartphones for data synchronization and expanded functionality.
+• They enhance processing speeds in computing devices.
+• They regulate the brightness of digital displays.
+124. What was a common input method before modern input devices?
+• Touchscreen interfaces.
+• Augmented reality controllers.
+• Voice recognition systems.
+√ Punched-card and paper-tape readers.
+• Wireless input sensors.
+125. How does an input device function in a computer system?
+• It regulates the power consumption of computing peripherals.
+• It enhances the speed of a computer’s central processing unit.
+• It replaces permanent storage units in modern computers.
+√ It converts incoming data and instructions into a pattern of electrical signals in binary code that can be understood by a digital computer.
+• It serves primarily as a decorative component in electronic setups.
+126. What are the three main categories of peripheral devices?
+• Manual devices, automated devices, and hybrid processors.
+• Wireless devices, wired devices, and hybrid devices.
+• Network devices, multimedia devices, and control devices.
+√ Input devices, output devices, and storage devices.
+• Analog devices, digital devices, and mechanical devices.
+127. Which of the following are considered peripheral devices?
+• Bluetooth speakers, RAM modules, and processors
+√ 3D printers, AI mice, Bluetooth speakers, gaming keyboards, and wireless routers
+• Battery packs and voltage regulators
+• 3D printers, system cooling fans, and heat sinks
+• AI mice, network cables, and fiber optic connections
+128. What are some examples of peripheral devices?
+√ Gaming keyboards, home printers, ultrawide monitors, wireless earbuds.
+• System cooling fans, ultrawide monitors, heat sinks.
+• Ultrawide monitors and voltage regulators.
+• Internal components like RAM modules and processors.
+• Home printers and fiber optic connections.
+129. What are examples of peripheral devices?
+√ 3D printers, AI mice, Bluetooth speakers, external hard drives, and gaming headsets.
+• System cooling fans and heat sinks.
+• AI mice, Network cables, and fiber optic connections.
+• Internal components like RAM modules and processors.
+• Battery packs and voltage regulators.
+130. How do VR and AR headsets function as output peripherals?
+• They regulate the brightness of connected display screens.
+• They exclusively handle input data from physical devices.
+• They replace traditional audio peripherals in multimedia systems.
+• They store video files permanently within the headset’s memory.
+√ They deliver immersive visual experiences by displaying digital content to the user.
+131. Which of the following best describes the relationship between visual output peripherals and input devices?
+√ Input devices send commands, while visual output peripherals display the results
+• Visual output peripherals store data, while input devices manage internet connectivity
+• Input devices reduce memory usage, while visual output peripherals manage power consumption
+• Input devices only control external storage, while visual output peripherals process audio
+• Visual output peripherals determine network bandwidth for connected devices
+132. Why are visual output peripherals essential in computing?
+√ They provide a graphical and visual representation of data for users
+• They manage wireless communication between devices
+• They process voice commands for automated system control
+• They store data permanently for long-term access
+• They enhance keyboard functionality for text input
+133. Which of the following are examples of visual output peripherals?
+• External hard drives, color printers, and flash memory cards
+• Microphones, headphones, projectors, and speakers
+• Keyboards, mice, trackpads, and joysticks
+• Wireless network adapters and routers
+√ Monitors, projectors, VR headsets, and AR headsets
+134. Which of the following is NOT a visual output peripheral?
+√ Wireless network adapters and routers
+• VR headsets and AR headsets
+• Monitors and display screens
+• Color printers and projectors
+• Monitors and display screens
+135. What are examples of visual output peripherals?
+√ Monitors, projectors, color printers, VR headsets, and AR headsets.
+• Keyboards, mice, trackpads, and joysticks.
+• External hard drives and flash memory cards.
+• Microphones, headphones, and speakers.
+• Wireless network adapters and routers.
+136. Which statement correctly describes the difference between external hard drives and pen drives?
+• External hard drives are more practical for short-term data transfers than pen drives
+• Pen drives are exclusively used for online data synchronization
+√ External hard drives store larger amounts of data, while pen drives offer portability and compact size
+• Pen drives have higher storage capacity than external hard drives
+• External hard drives cannot be connected to different computers
+137. What is the primary function of output peripherals?
+• They function exclusively as input components.
+• They enhance the speed of a computer’s central processing unit.
+• They regulate power consumption in computing devices.
+√ They communicate the results of a computer’s processes to the user.
+• They store data permanently within the system.
+138. Which of the following storage devices can be physically transported for use on multiple computers?
+• Cloud storage services and pen drives
+• CPU cache memory
+• Internal memory modules
+√ External hard drives and pen drives
+• Cloud storage services
+139. How does CD/DVD storage differ from external hard drives and pen drives?
+• It supports continuous data writing without limitations
+• It enables unlimited file transfers between different formats
+• It functions solely as an online storage solution
+√ It allows information to be stored but not modified
+• It automatically deletes stored files after a set period
+140. What is the primary advantage of an external hard drive?
+• It cannot be used for long-term storage
+• It restricts access to online-only environments
+√ It stores large amounts of information and allows for physical transportation
+• It permanently locks all stored data, preventing modifications
+• It only allows data to be accessed by one specific computer
+141. What is the purpose of a network adapter?
+• It manages sound quality settings on connected devices
+• It restricts wired connections in favor of wireless only
+• It functions as an internal memory expansion module
+√ It connects to the internet using a digital service for data transmission
+• It processes graphics-intensive applications for better performance
+142. How does a modem facilitate an internet connection?
+• It directly connects to cloud storage without external hardware
+• It operates only within a local area network without external access
+√ It converts digital signals to analog for transmission over a telephone line
+• It limits the number of devices connected to a network
+• It enhances display resolution for multimedia applications
+143. Why is a multifunction printer considered both an input and output peripheral?
+• It stores files permanently without needing external memory
+• It operates solely as a text-based storage device
+• It processes user commands only through wireless networks
+√ It combines scanning (input) and printing (output) functions
+• It only supports digital document transfers without physical copies
+144. What is the primary role of a touch-sensitive screen?
+• It replaces all physical keyboards for data entry
+• It exclusively supports stylus input without finger-based touch
+• It operates solely as an input device, without displaying content
+• It prevents users from interacting with applications directly
+√ It allows users to select functions by touch and display stored information
+145. What does a CD/DVD player allow users to do?
+• Edit real-time graphical content
+• Enhance data encryption for secure communication
+√ Enter information stored on CDs and DVDs into the computer
+• Manage cloud-based file transfers without hardware interactions
+• Process commands using real-time touch inputs
+146. What is the purpose of a scanner?
+• It encrypts files for security purposes
+• It transfers high-speed data between computers
+√ It photographs flat images and enters them as digital information into the computer
+• It functions as a display output device
+• It records audio signals for multimedia processing
+147. Which of the following uses symmetric encryption to ensure that messages are encrypted end-to-end?
+• Cloud storage services (e.g., Google Drive, Dropbox)
+• Social media platforms (e.g., Facebook, Twitter)
+• Video streaming services (e.g., Netflix, Hulu)
+√ Secure messaging apps (e.g., WhatsApp, Signal)
+• Online shopping websites (e.g., Amazon, eBay)
+148. How does encryption affect an organization's reputation?
+• It complicates the organization’s network infrastructure
+• It slows down the organization’s operations
+• It reduces the organization’s data storage capacity
+√ It helps protect the organization’s reputation by ensuring that sensitive data is stored in an encrypted format
+• It decreases the organization’s budget
+149. What additional layer of protection does encryption provide against cyber-attacks?
+• Increased speed
+• Increased transparency
+• Increased availability
+√ Increased security
+• Increased redundancy
+150. How does encryption help protect sensitive data?
+√ By ensuring that only those with the proper decryption key can access the data
+• By copying data to multiple locations
+• By deleting old data regularly
+• By compressing data to save space
+• By converting data to a visual format
+151. What is one of the key benefits of encryption for individuals and organizations?
+• Data visualization
+• Data compression
+• Data replication
+√ Data protection
+• Data sorting
+152. Who holds the private key in asymmetric encryption
+• The key-exchange authority
+• The public server
+• The encryption algorithm
+• Anyone who needs to encrypt information
+√ The actor who decrypts the information
+153. What is the purpose of the public key in asymmetric encryption?
+• Used for key exchange
+• Used for hashing
+• Used for decryption
+• Used for both encryption and decryption
+√ Used for encryption
+154. How many keys are required in asymmetric encryption?
+• Four keys
+• One key
+• Three keys
+√ Two keys
+• Multiple keys
+155. What is the cornerstone of Public Key Infrastructure (PKI)?
+• Hash-based encryption
+• Symmetric keys
+• One-time pad encryption
+√ Asymmetric keys
+• Rotating key systems
+156. What is an example of symmetric encryption in practice?
+• Creating a secure tunnel for encrypted data transmission
+• Generating a public key for encryption and a private key for decryption
+• Using a digital signature to verify the authenticity of a message
+√ Encrypting an email with a unique key, sending it to a friend, and using the same symmetric key to unlock/decrypt the email
+• Implementing a password-based access control system
+157. How many keys are used in symmetric encryption?
+• Two keys
+• Multiple keys
+• Four keys
+√ One key
+• Three keys
+158. What component is involved in both data and instruction storage in Von Neumann architecture?
+• Additional storage
+• Processor
+√ Memory
+• Input/output devices
+• Control unit
+159. What is typically employed in practice for the Harvard architecture?
+• No cache memory
+√ Two distinct caches for data and instruction
+• Shared memory modules
+• Dynamic memory allocation
+• A single cache for both data and instruction
+160. How does the Harvard architecture differ from the Von Neumann architecture?
+• It combines arithmetic and logical operations
+• It uses the same memory for instructions and data
+• It relies on a single type of processor
+√ It uses distinct memory and pathways for program instructions and data
+• It integrates primary and secondary storage
+161. What does the Harvard architecture separate?
+• Arithmetic and logical operations
+√ Data and instruction storage and signal pathways
+• Primary and secondary memory
+• Internal and external storage
+• Input and output devices
+162. What is Von Neumann architecture also referred to as?
+• The Harvard architecture
+• The ARM architecture
+• The X86 architecture
+√ The Princeton architecture
+• The RISC architecture
+163. What type of architecture integrates multiple processing cores onto a single integrated circuit?
+• Single instruction, multiple data (SIMD) architecture
+• Microarchitecture
+• Client-server architecture
+• Instruction set architecture (ISA)
+√ Multicore architecture
+164. What components are included in the central processing unit (CPU)?
+√ Registers, an arithmetic logic unit (ALU), and control circuits
+• RAM, ROM, secondary storage
+• Display, printing unit, speakers
+• Keyboard, mouse, hard disk drive
+• Network card, sound card, graphics card
+165. What are the two kinds of primary memory?
+√ RAM and ROM
+• CPU and ALU
+• HDD and SSD
+• Keyboard and mouse
+• Display and printer
+166. What are the two types of memory in a computer architecture's storage unit?
+• Temporary storage and permanent storage
+• Internal storage and external storage
+√ Primary storage and secondary storage
+• Volatile storage and non-volatile storage
+• Digital storage and analog storage
+167. How does the computer architecture handle audio data, such as an MP3 file?
+• The system reads a number array from the disc and sends it to the network
+• The system reads a number array from the disc and displays it on the screen
+√
+The system reads a number array from the disc, manipulates the numbers to convert compressed audio data to uncompressed audio data,
+and outputs the resulting set of numbers to the audio chips
+• The system reads a number array from the disc and stores it in RAM
+• The system reads a number array from the disc and prints it on paper
+168. What are some examples of output devices in a computer architecture?
+√ Display, printing unit, speakers, headphones
+• Display, RAM, CPU, hard disk drive
+• RAM, ROM, secondary storage, main memory
+• Keyboard, mouse, hard disk drive, solid-state drive
+• CPU, ALU, control circuits, registers
+169. What is the function of the output unit in a computer architecture?
+√ To deliver the computer process’s results to the user
+• To receive information from input devices
+• To store data temporarily
+• To interpret assembly language instructions
+• To translate data into machine language
+170. What are the most often utilized input devices?
+√ Keyboard and mouse
+• Speakers and headphones
+• CPU and ALU
+• Hard disk drives and solid-state drives
+• Display and printer
+171. What is the purpose of the input unit in a computer architecture?
+• To execute assembly language instructions
+• To display processed data to the user
+• To convert compressed audio data
+√ To provide external data sources to the computer system and translate them to machine language
+• To store data permanently
+172. What are the two predominant approaches to computer architecture?
+• Modular architecture and monolithic architecture
+• Harvard architecture and Von Neumann architecture
+• Symmetric multiprocessing (SMP) and asymmetric multiprocessing (AMP)
+√ Complex instruction set computer (CISC) and reduced instruction set computer (RISC)
+• Client-server architecture and peer-to-peer architecture
+173. What does computer architecture specify?
+• The structure of database systems
+• The organization of software libraries
+√ The machine interface for which programming languages and associated processors are designed
+• The layout of computer networks
+• The design of peripheral devices
+174. What does computer architecture refer to?
+• The network configuration
+• The software development process
+• The physical design of computer hardware
+√ The end-to-end structure of a computer system that determines how its components interact with each other
+• The user interface design
+175. What type of system is a missile guidance system?
+• General-purpose operating system
+• Soft real-time system
+• Embedded operating system
+• Network operating system
+√ Hard real-time system
+176. Which of the following is an example of a hard real-time system?
+• Audio and video systems
+• Personal computer
+• Web browsing
+• Electronic games
+√ Flight Control Systems
+177. Which type of operating system is designed to handle multiple jobs simultaneously without user interaction?
+• Distributed OS
+• Time-Sharing OS
+• Multiprocessing OS
+√ Batch Operating System
+• Network OS
+178. What are system calls used for?
+• To display processed data to the user
+• To transfer data between memory and storage
+• To perform arithmetic and logic operations
+• To store data permanently
+√ To provide services such as process management, file management, I/O management, and memory management
+179. What is the function of the memory manager in the kernel?
+• Grants permission to use computer system resources
+• Provides process management services
+• Allocates the Kernel’s processing time to various processes
+√ Allocates space in memory for all users of kernel service
+• Handles requests from hardware devices
+180. What happens in User Mode?
+• The kernel executes processes in kernel space
+• The operating system boots
+• System calls change the mode from User to Kernel
+√ The user performs tasks in the user area of memory
+• The system manages hardware functions
+181. What is the purpose of memory separation between user data and kernel data?
+• To increase data storage capacity
+• To optimize data processing speed
+• To enhance graphical display quality
+• To enable network communication
+√ To prevent user data and kernel data from interfering with each other
+182. Where is the kernel code usually loaded?
+• Into the secondary storage
+• Into the user area of memory
+• Into the display memory
+• Into the network buffer
+√ Into the protected area of memory
+183. Which factor improves cache hit rates?
+√ Efficient caching algorithms and larger cache sizes
+• Increasing the number of processing cores
+• Expanding external storage space
+• Using slower execution cycles
+• Reducing cache availability
+184. What happens when the hit ratio is high?
+√ The CPU performs faster due to reduced memory access times
+• The number of cache misses increases
+• The CPU consumes more power
+• The CPU clock speed decreases
+• RAM becomes the primary storage unit
+185. What does the hit ratio measure?
+• The execution speed of CPU operations
+• The number of cache memory failures
+• The amount of available storage in the cache
+√ The percentage of successful cache hits compared to total memory accesses
+• The power usage of cache memory
+186. What is a cache miss?
+• When the CPU executes an incorrect instruction
+• When the instruction register loses data
+• When the CPU fails to complete a task
+√ When the requested data is not found in the cache and must be retrieved from RAM
+• When the cache memory shuts down unexpectedly
+187. Why is cache memory considered high-speed storage?
+• Because it stores permanent system information
+• Because it eliminates power consumption
+• Because it replaces all forms of external storage
+√ Because accessing the cache is significantly faster than retrieving data from RAM
+• Because it operates independently of the CPU
+188. What is a cache hit?
+• When the CPU fails to locate data in the cache
+√ When the CPU successfully finds the requested data in the cache
+• When the CPU accesses data from main memory
+• When the CPU executes an instruction
+• When the cache memory is full
+189. Which factor determines how well software benefits from cache memory?
+• The number of users accessing the software
+√ The frequency of data access and processing requirements
+• The availability of cloud storage
+• The type of peripheral devices connected
+• The quality of graphics displayed
+190. What is the primary reason cache memory is used instead of main memory for repetitive tasks?
+• It replaces GPU processing power
+√ It improves responsiveness and execution speed for critical operations
+• It decreases software complexity
+• It eliminates instruction execution delays
+• It reduces CPU temperature
+191. Why does financial analysis software require a large cache?
+• To store images for processing
+√ To quickly access and analyze financial data for complex calculations and reports
+• To execute basic arithmetic calculations
+• To control hardware components
+• To manage power distribution
+192. What type of software relies on cache for handling complex mathematical operations on large data sets?
+• Operating system kernels
+√ Image and video processing software
+• Web browsers
+• Peripheral drivers
+• Simple text editors
+193. How does video editing software utilize cache memory?
+• It performs only mathematical calculations
+√ It quickly accesses large amounts of video and audio data for real-time editing and playback
+• It eliminates the need for external storage
+• It reduces the number of processing cores needed
+• It improves internet speed
+194. Why do database management systems benefit from a larger cache?
+• They handle only single transactions at a time
+√ They perform repetitive queries and require fast access to large amounts of stored data
+• They mainly process image files
+• They operate independently from CPU architecture
+• They do not require much memory to function
+195. How does a larger cache improve software performance?
+• By increasing memory storage capacity
+√ By reducing execution time for repetitive tasks and enabling quick data access
+• By replacing RAM entirely
+• By optimizing hardware connectivity
+• By decreasing power consumption
+196. What happens if cache levels are not optimized properly?
+• The processor will automatically increase the clock speed
+√ The CPU may experience delays due to excessive memory access
+• The CPU will store unnecessary data permanently
+• Registers will be disabled
+• The system will stop executing instructions
+197. How does the L3 cache differ from the L1 and L2 caches?
+• It is the fastest cache level
+√ It is larger but slower, storing less frequently used data
+• It improves arithmetic operations
+• It manages logical instructions exclusively
+• It has direct access to the CPU
+198. Why is L1 cache the fastest among cache levels?
+• It has the largest storage capacity
+√ It is closest to the CPU and stores frequently used instructions
+• It replaces RAM in the system
+• It relies on external power sources
+• It operates independently of the CPU
+199. What type of data is stored in the L3 cache?
+• The most critical operations
+√ Less frequently used data and instructions
+• Exclusively graphical processing data
+• Temporary power management settings
+• Only arithmetic calculations
+200. Which cache level is the smallest and fastest?
+• L2 cache
+√ L1 cache
+• External cache memory
+• Virtual memory
+• L3 cache
+201. What does the hierarchy of CPU cache levels represent?
+• A method to increase the CPU clock speed
+√ A balance between speed and capacity
+• A process for improving power efficiency
+• A replacement for RAM
+• A way to expand external storage
+202. Where are memory cards like SD and CompactFlash commonly used?
+• Hard disk drives
+√ Digital cameras and gaming consoles
+• Computer cooling systems
+• Audio speakers
+• Cloud storage systems
+203. Why do SSDs use flash memory instead of traditional hard disk drives?
+• Requirement for mechanical parts
+• Use of magnetic recording
+• Slower performance compared to HDDs
+√ Faster data access speeds
+• Data retention only when powered on
+204. What is the primary function of flash memory in USB flash drives?
+• Managing CPU processes
+• Temporary caching in RAM
+• Running an operating system
+√ Storing and transferring data between computers
+• Writing optical data onto disks
+205. Why is flash memory beneficial in enterprise data centers?
+• It consumes high levels of power in storage systems.
+• It requires frequent refresh cycles like DRAM.
+• It is mainly used for short-term caching.
+√ It enhances data transfer speed and reliability.
+• It is only useful for consumer-grade hardware.
+206. Which devices commonly use flash memory for data storage?
+• External speakers
+• CRT monitors and mechanical keyboards
+• Traditional floppy disks
+√ Mobile phones and digital cameras
+• Liquid cooling systems
+207. Which of the following is a typical use for flash memory?
+• Optical storage like Blu-ray discs
+• Cloud-based storage only
+• Temporary system RAM
+√ USB flash drives and SD cards
+• Mechanical hard disks
+208. How does flash memory erase data?
+• Using volatile storage methods
+• Through magnetic fields
+• By continuously refreshing stored data
+√ In units called blocks
+• Byte-by-bit erasure
+209. What makes flash memory a nonvolatile storage type?
+• It is mainly used in temporary cache storage.
+• It loses stored information after power cycles.
+√ It retains data even when the device is powered off.
+• It only functions in enterprise-grade devices.
+• It requires constant power to maintain data.
+210. Which of the following is an advantage of SRAM?
+• Higher density than DRAM
+• Used primarily for long-term storage
+• Primarily found in hard disk drives
+√ Faster access times and lower latency
+• Requires periodic refresh to maintain data
+211. How many transistors are used per memory cell in SRAM?
+• 14
+• 1
+• 4
+• 8
+√ 6
+212. Where is SRAM commonly used?
+• Main system memory in computers
+• Long-term non-volatile storage
+• Low-density external memory cards
+√ Cache memory in CPUs
+• Optical storage devices
+213. What makes SRAM more reliable than DRAM?
+• It has a higher density per chip.
+• It is primarily used for main memory in computers.
+• It consumes less power than DRAM.
+√ It does not require periodic refresh cycles.
+• It stores data using capacitors instead of transistors.
+214. How does ROM function in game cartridges?
+• It enables dynamic updates during gameplay.
+√ It stores game data permanently.
+• It deletes data after a power loss.
+• It functions as temporary cache memory.
+• It allows users to modify game code directly.
+215. Why are critical system settings stored in ROM?
+• It supports dynamic data logging.
+• ROM settings are erased when the system shuts down.
+• It allows real-time editing by users.
+• It functions as a temporary storage solution.
+√ ROM prevents unintended modifications.
+216. Why is ROM used in storing essential components of an OS?
+• It works only when connected to external memory.
+• It provides temporary storage for user applications.
+• It allows frequent updates to the system software.
+√ It ensures data remains intact after power cycles.
+• It enables dynamic reprogramming of the system.
+217. Why is EEPROM considered more convenient than UVEPROM?
+• It cannot be reprogrammed
+• It requires UV exposure for erasure
+• It has a lower storage capacity
+√ It can be erased using electrical signals
+• It is a volatile memory
+218. Which type of memory can be erased using UV rays?
+• SRAM
+• DRAM
+√ UVEPROM
+• PROM
+• EEPROM
+219. What types of devices commonly use IR ports in home automation?
+√ Smart TVs, sound systems, and lighting systems.
+• Refrigerators and washing machines.
+• Wireless routers and internet modems.
+• Smartphones and tablets.
+• Laptops and desktop computers.
+220. Why are IR ports useful in smart home technology?
+√ They enable users to control multiple devices from a single interface by integrating them into home automation hubs.
+• They exclusively support voice-controlled commands.
+• They replace traditional power outlets in home automation setups.
+• They restrict access to smart home networks for security purposes.
+• They store user preferences permanently without any modifications.
+221. How do IR ports contribute to home automation?
+• They eliminate the need for wired connections in all smart home devices.
+• They limit the range of communication between connected devices.
+• They reduce the energy consumption of household electronics.
+• They primarily serve as decorative components in smart homes.
+√ They allow smart TVs, sound, and lighting systems to be controlled via mobile apps or universal remote controls.
+222. Why were infrared ports widely used for data transfer in the past?
+• They supported real-time data streaming over long distances.
+• They eliminated the need for external storage devices.
+• They provided unlimited storage capacity for mobile phones and laptops.
+√
+Before Bluetooth and Wi-Fi became common, infrared ports allowed direct line-of-sight connections for transferring files and
+synchronizing data.
+• They replaced wired communication in all electronic devices.
+223. How are infrared ports used in remote controls?
+• They store infrared signals for long-term device usage.
+• They serve as decorative features on consumer electronics.
+• They regulate the brightness of television screens.
+√
+They receive specific infrared signals from the remote control and interpret them to execute commands like changing channels or
+adjusting volume.
+• They limit the range of wireless communication in modern devices.
+224. What is the primary function of an infrared (IR) port?
+• It manages the computer’s power consumption.
+• It enhances the computer’s processing speed.
+• It stores large amounts of data permanently.
+√ It enables wireless data transmission through infrared rays.
+• It eliminates the need for physical ports in modern devices.
+225. What are the two versions of the PCI bus?
+• Wired and wireless versions.
+• Single-core and multi-core versions.
+• External and internal versions.
+√ 32-bit and 64-bit versions.
+• Optical and analog versions.
+226. How does the PCI bus allow flexibility in connecting peripherals?
+• It limits the number of peripherals a computer can support at any time.
+• It permanently locks peripherals into place, preventing any upgrades.
+√ It enables users to swap components by unplugging a device and plugging in a new one in an available PCI slot.
+• It restricts data transfer speeds to prevent excessive usage.
+• It is exclusively designed for wireless communication.
+227. What was the primary purpose of PCI?
+• It regulated the heat distribution within a computer case.
+• It eliminated the need for video processing hardware.
+√ It served as a connection interface for attaching computer peripherals to the motherboard.
+• It replaced internal storage drives in older computer systems.
+• It functioned solely as a power supply unit for peripherals.
+228. How can users distinguish between a PS/2 keyboard port and a PS/2 mouse port?
+• The keyboard port is placed on the front panel of the computer.
+√ The keyboard port is typically purple, while the mouse port is green.
+• The keyboard port is square-shaped, while the mouse port is circular.
+• Both ports are identical and interchangeable.
+• The mouse port has more pins than the keyboard port.
+229. Why is the PS/2 port considered mostly obsolete today?
+• It is designed exclusively for portable computers.
+• It is only compatible with wireless accessories.
+• It does not support any input devices.
+√ Most modern devices use USB connections instead of PS/2 ports.
+• It has always been used only for industrial applications.
+230. What is the primary purpose of a PS/2 port?
+• It enhances the computer’s processing power.
+• It stores user data permanently on the computer.
+• It functions as a video output port.
+√ It connects a mouse and keyboard to a PC.
+• It replaces USB connections in modern systems.
+231. What are common alternatives to USB ports for computer networking?
+• Infrared ports which operate through wireless signal transmission.
+• HDMI and VGA ports
+• Audio ports are used for sound output and microphone connections.
+√ Ethernet and FireWire ports
+• PS/2 ports, which mainly connect older keyboards and mice.
+232. Why are parallel ports also called printer ports?
+• They enhance the print quality of documents.
+• They provide wireless printing capabilities for modern devices.
+• They regulate the ink levels in connected printers.
+√ They are widely used to connect printers to computers.
+• They store printing data permanently on the computer.
+233. What types of devices commonly use parallel ports?
+• Microphones and headphones.
+• Monitors and display screens.
+√ Printers, scanners, and external hard disk drives.
+• Wireless routers and modems.
+• Smartphones and tablets.
+234. What is the key difference between parallel and serial ports?
+• Serial ports eliminate the need for external storage devices.
+• Parallel ports are primarily used for wireless communication, whereas serial ports require physical connections.
+• Serial ports can send larger amounts of data than parallel ports.
+√
+Parallel ports perform a parallel communication interface and can transfer multiple bits simultaneously, while serial ports transmit data
+one bit at a time.
+• Parallel ports are exclusively used for connecting speakers and audio devices.
+235. Where are serial ports typically located on a computer?
+• They are found inside the computer’s battery compartment.
+• They are placed on the front panel of laptops for easy access.
+• They are integrated into the computer screen.
+• They are embedded within external keyboards.
+√ They are usually on the back of the computer and part of the motherboard.
+236. How were serial ports traditionally used?
+• They eliminated the need for RAM in early computers.
+• They primarily served as decorative features on motherboards.
+• They reduced the size of external devices.
+√ They were commonly used to connect printers and external modems to a PC.
+• They regulated the temperature of computer components.
+237. What is the primary function of a serial port?
+• It replaces wireless communication technologies.
+• It stores large amounts of data permanently.
+• It enhances the computer's processing speed.
+√ It allows a PC to transmit or receive data one bit at a time.
+• It manages the computer’s power consumption.
+238. Which port is commonly used for connecting external storage devices?
+• Parallel Port
+• Modem Port
+• Game Port
+√ USB Port
+• VGA Port
+239. What is the purpose of ports on a motherboard?
+• They regulate the computer’s internal temperature.
+• They reduce power consumption in external devices.
+• They store data permanently.
+√ They serve as slots to connect external devices like keyboards, printers, and modems.
+• They enhance the speed of the CPU.
+240. How does an external port function?
+√ It connects the motherboard to external devices like modems, printers, and flash drives.
+• It stores software applications within the system.
+• It prevents overheating in electronic devices.
+• It eliminates the need for display screens.
+• It controls the sound output of speakers.
+241. What is an internal port used for?
+• It enhances battery performance.
+• It restricts external device compatibility.
+• It manages wireless communication between computers.
+• It regulates screen brightness in laptops.
+√ It connects the motherboard to internal devices such as hard disk drives, CD drives, and internal modems.
+242. What is the primary function of a port in a computer?
+• It limits data transfer between different components.
+• It replaces internal processing units.
+• It enhances the visual appearance of a computer.
+• It reduces the need for storage devices.
+√ It acts as an interface between the computer and external devices like a mouse, printer, or modem.
+243. Why does 3D NAND technology reduce interference between memory cells?
+√ Vertical stacking increases the spacing between storage units
+• It uses single-layer storage cells
+• It replaces flash memory with DRAM
+• It relies on mechanical moving parts
+• It decreases NAND cell voltage levels
+244. What is the main advantage of 3D NAND over planar NAND?
+• Reduced endurance
+• Slower read and write speeds
+√ Higher storage density with vertical stacking
+• Less reliable data retention
+• Increased power consumption
+245. Which NAND flash type stores the most bits per cell, increasing storage density but reducing longevity?
+• TLC (Triple-Level Cell)
+• MLC (Multi-Level Cell)
+• SLC (Single-Level Cell)
+√ QLC (Quad-Level Cell)
+• DRAM
+246. Which type of NAND flash memory stores only 1 bit per cell?
+• QLC (Quad-Level Cell)
+• V-NAND
+• MLC (Multi-Level Cell)
+• TLC (Triple-Level Cell)
+√ SLC (Single-Level Cell)
+247. Which interface generally offers the highest data transfer rates for SSDs?
+√ PCIe
+• Thunderbolt
+• IDE
+• SATA
+• USB
+248. Which components are unique to HDDs but absent in SSDs?
+• Requires an external cooling system
+• Only electronic circuit boards
+• Flash memory and cache units
+√ Magnetic heads and rotating platters
+• High-frequency radio wave processors
+249. What makes SSDs different from HDDs?
+• Limited to cloud-based storage solutions
+• Cannot be used in portable devices
+• Uses magnetic heads for reading and writing data
+• Requires rotating disks for storing files
+√ Consists of electronic chips and circuit boards instead of mechanical parts
+250. How does an HDD store data?
+• Requires internet connectivity for operation
+• Stores data in solid-state memory chips
+• Cannot store operating system files
+• Limited to only volatile storage
+√ Uses magnetism to record information on spinning disks
+251. What is a drawback of HDDs?
+• Requires additional cooling systems
+• Always consumes less power than SSDs
+• Limited to only single-file transfers
+• Cannot store multimedia content
+√ Slow at retrieving larger files compared to SSDs
+252. How do HDDs compare to other storage solutions in terms of cost?
+• Cannot be used for consumer-level storage
+• Always more expensive than solid-state drives
+• Limited to high-end enterprise applications
+√ Relatively cheaper than alternatives like SSDs
+• Requires external software for cost optimization
+253. What is the key advantage of HDDs?
+• Exclusively used for external backups
+• Limited to small-scale file storage
+• Requires constant internet access for saving files
+√ Can store a large amount of data, depending on the drive size
+• Cannot hold operating system data
+254. What components are sealed within the hard drive’s metal case?
+• Only a single rotating disk
+• Cannot store digital information
+• Limited to external storage devices
+√ Platters, read/write heads, spindle, and actuator
+• Requires a separate cooling system
+255. What does the read/write head do in a hard disk?
+• Physically engraves data onto the disk surface
+√ Reads or writes data on the magnetic platters
+• Requires manual alignment before use
+• Cannot interact with multiple platters
+• Limited to handling only binary information
+256. What determines the data transfer time of an HDD?
+• Exclusively reliant on seek time
+√ Depends on the rotational speed of the disk
+• Requires cloud synchronization
+• Cannot be influenced by hardware configuration
+• Limited by the number of read-write heads
+257. What does rotational latency describe?
+• The total time required for a file to open
+√ Time taken for the sector to come under the read-write head
+• How long an HDD takes to power on
+• Limited to external HDDs only
+• Speed of data transmission through a USB connection
+258. Why is the spindle crucial for the operation of a hard disk drive?
+• It stores binary data permanently
+√ It holds platters in position and enables their rotation
+• It connects the HDD to external devices
+• It generates power for data transmission
+• It transfers data directly to the CPU
+259. Which component moves the read/write head to access or store information on the platters?
+• Spindle
+√ Actuator
+• Cache memory
+• Optical sensor
+• Cylinder
+260. What is the function of platters in a hard disk drive?
+• Rotate the spindle for data processing
+√ Store data on stacked disk-like structures
+• Generate electrical signals for storage
+• Manage data flow between external devices
+• Control the read/write head movement
+261. Which storage advantage do SSDs provide over HDDs?
+• Greater capacity for multi-layer platters
+√ Faster data retrieval speeds due to electronic access
+• Higher dependency on external power sources
+• Lower efficiency in high-speed computing
+• Mechanical redundancy for long-term use
+262. What type of memory do SSDs use to store and access data?
+• Optical disc storage
+√ NAND flash memory
+• Laser-based data encoding
+• Mechanical tape reels
+• Magnetic platters
+263. Why are HDDs more prone to failure compared to SSDs?
+• HDDs use excessive amounts of power
+√ They rely on moving parts like a spinning platter and read/write arm
+• HDDs require external cooling units
+• SSDs use proprietary file systems
+• SSDs have stronger physical casing
+264. What key advantage does an SSD have over an HDD in terms of performance?
+• Higher power consumption for processing tasks
+√ Faster boot and load times due to flash memory
+• Greater mechanical durability through moving parts
+• Increased heat generation during data retrieval
+• Spinning platters for better storage efficiency
+265. Which measurement in HDD form factors represents the approximate platter diameter?
+• 5.25-inch and 1.8-inch
+√ 2.5-inch and 3.5-inch
+• 7-inch and 9-inch
+• 10.2-inch and 12-inch
+• 4.5-inch and 6.3-inch
+266. Why does an HDD have less usable space than its advertised capacity?
+• HDD storage degrades over time
+√ The operating system, file system structures, and data redundancy occupy some space
+• The physical platters limit access to storage
+• HDDs require external devices to maintain capacity
+• Hard drives cannot store compressed files
+267. What is the definition of seek time?
+• Duration required for data transfer completion
+√ Time taken for the read-write head to reach the desired track
+• Limited to solid-state drives only
+• Time taken for the HDD to fully boot
+• The overall processing time of the controller
+268. How is data stored on a hard disk?
+• Requires a touchscreen interface
+• Written using physical indentations
+• Limited to optical reflection techniques
+√ In concentric tracks on the disk’s surface
+• Cannot store binary data
+269. What material is used to make hard disk plates?
+• Only plastic-based materials
+√ Aluminum coated with magnetic material
+• Limited to ceramic construction
+• Cannot store digital information
+• Requires glass for data storage
+270. Where are HDDs commonly installed?
+• Only in laptops and gaming consoles
+√ Inside desktops, mobile devices, consumer electronics, and data centers
+• Exclusively found in cloud computing setups
+• Cannot store software programs or other files
+• Limited to external storage use
+271. What is a key feature of a hard disk drive (HDD)?
+• Requires constant power to maintain stored data
+√ Non-volatile storage that retains data when powered off
+• Limited to storing only operating systems
+• Cannot be used as primary storage
+• Exclusively used in mobile devices
+272. What makes portable scanners convenient for users?
+• Require permanent installation
+√ They are lightweight and often cordless
+• Limited to stationary scanning setups
+• Cannot be used outside of office environments
+• Always need an internet connection to function
+273. Convert the decimal number 164 to binary, octal and hexadecimal.
+• Binary: 11000100, Octal: 264, Hexadecimal: C4
+• Binary: 10110100, Octal: 274, Hexadecimal: D4
+• Binary: 10101100, Octal: 254, Hexadecimal: B4
+√ Binary: 10100100, Octal: 244, Hexadecimal: A4
+• Binary: 10010100, Octal: 234, Hexadecimal: 94
+274. Convert the decimal number 158 to binary, octal and hexadecimal.
+• Binary: 10001110, Octal: 240, Hexadecimal: 5E
+• Binary: 10111110, Octal: 237, Hexadecimal: 8E
+• Binary: 11011110, Octal: 238, Hexadecimal: 7E
+• Binary: 11111110, Octal: 239, Hexadecimal: 6E
+√ Binary: 10011110, Octal: 236, Hexadecimal: 9E
+275. What concept is included in the theory of number systems?
+• Graph theory
+• Quantum mechanics
+√ Place value
+• General relativity
+• Thermodynamics
+276. Which of the following is NOT a type of number system mentioned in the text?
+• Hexadecimal system
+• Octal system
+√ Ternary system
+• Decimal system
+• Binary system
+277. What does number system theory study?
+• The principles of classical physics
+• The art of coding languages
+√ How numbers are represented and manipulated
+• The design of mechanical computers
+• The history of mathematics
+278. What is one disadvantage of non-positional number systems?
+• Writing numbers is automated
+• Writing numbers is quick and simple
+√ Writing numbers is usually cumbersome and inconvenient
+• Writing numbers is efficient and easy
+• Writing numbers is always accurate
+279. What happens if a smaller number comes before a larger one in the Roman numeral system?
+• The smaller number is multiplied by the larger one
+• The smaller number is added to the larger one
+• The smaller number remains the same
+• The smaller number is divided by the larger one
+√ The smaller number is subtracted from the larger one
+280. If a larger number comes before a smaller one in the Roman numeral system, what is the result?
+• They remain the same
+• They are subtracted
+• They are multiplied
+√ They are added
+• They are divided
+281. Convert the decimal number 500 to binary.
+• 100110100
+• 111010100
+• 101110100
+• 110110100
+√ 111110100
+282. Convert the decimal number 200 to hexadecimal.
+• E8
+• A8
+• B8
+√ C8
+• D8
+283. Convert the decimal number 150 to octal.
+• 224
+• 220
+• 225
+√ 226
+• 222
+284. Convert the decimal number 128 to binary.
+√ 10000000
+• 10010000
+• 11100000
+• 10100000
+• 11000000
+285. Convert the decimal number 99 to hexadecimal.
+• 65
+• 64
+• 66
+√ 63
+• 62
+286. Convert the decimal number 85 to octal.
+• 130
+• 105
+• 124
+• 126
+√ 125
+287. Convert the decimal number 64 to binary.
+• 1010000
+• 1011000
+• 1100000
+√ 1000000
+288. Convert the decimal number 123 to hexadecimal.
+• 7C
+• 7F
+√ 7B
+• 7A
+• 7D
+289. Convert the decimal number 42 to octal.
+• 54
+• 50
+√ 52
+• 51
+• 60
+290. Convert the decimal number 30 to binary.
+• 10111
+• 10011
+• 11100
+• 11011
+√ 11110
+291. Convert the decimal number 512 to hexadecimal.
+• 2D0
+• 2A0
+• 2C0
+√ 200
+• 2F0
+292. Convert the decimal number 100 to octal.
+• 140
+• 150
+• 132
+√ 144
+• 155
+293. Convert the decimal number 45 to binary.
+• 10010
+• 11100
+• 10101
+√ 101101
+• 11011
+294. Convert the decimal number 255 to hexadecimal
+• FD
+• FE
+• F0
+• FA
+√ FF
+295. Convert the decimal number 78 to octal.
+• 115
+• 110
+• 121
+• 120
+√ 116
+296. Convert the decimal number 25 to binary.
+• 10101
+• 10110
+• 11100
+√ 11001
+• 10011
+297. What is a series of instructions that tells a computer how to perform tasks?
+• Circuit
+• Command
+• Data
+√ Program
+• Algorithm
+298. What technology is used in modern CPUs?
+• Magnetic tapes
+• Vacuum tubes
+• Mechanical relays
+√ Microprocessors (MPs)
+• Punch cards
+299. What special device in a computer executes the stored program?
+• Hard drive
+• Network card
+• Memory stick
+√ Central processing unit (CPU)
+• Graphics processing unit (GPU)
+300. On what principle are computers built?
+• User control
+• Direct input
+• Manual operation
+√ Program control
+• Random access
+301. What is a computer primarily designed to do?
+• Store data indefinitely
+• Manage network connections
+• Display graphical content
+√ Automate the process of calculations and algorithmic processing of information
+• Generate random numbers
+302. Where must a computer program be stored for the CPU to process data?
+• Hard drive
+• Graphics card
+√ Memory
+• Power supply
+• Network drive
+303. What types of operations does the Arithmetic and Logic Unit (ALU) perform?
+• Power regulation and cooling
+• Memory allocation and management
+• Input and output operations
+• Data compression and encryption
+√ Arithmetic, comparison, and logical operations
+304. Which two major components make up a CPU?
+• Central Processing Unit (CPU) and Arithmetic Unit (AU)
+• Control Unit (CU) and Graphics Processing Unit (GPU)
+• Control Unit (CU) and Central Processing Unit (CPU)
+• Arithmetic and Logic Unit (ALU) and Graphics Processing Unit (GPU)
+√ Control Unit (CU) and Arithmetic and Logic Unit (ALU)
+305. What is the first technical characteristic of a CPU mentioned?
+• Temperature
+• Cost
+• Power consumption
+• Size
+√ Speed
+306. What are the main types of data encoding?
+• Color coding, encoding of binary data, encoding of floating-point data, matrix encoding, vector encoding, signal encoding
+• Color coding, encoding of logical data, encoding of integer data, channel encoding, cluster encoding, segment encoding
+• Color coding, encoding of numerical data, encoding of alphabetical data, frame encoding, bit encoding, block encoding
+√ Color coding, encoding of text information, encoding of numeric data, graphics encoding, video encoding, coding of audio information
+• Color coding, encoding of text information, encoding of symbolic data, file encoding, packet encoding, frame encoding
+307. What is the purpose of graphics encoding?
+• To encode audio signals for playback and storage
+• To encode video data for streaming purposes
+• To encode numerical data for mathematical calculations
+√ To represent images and visual data in a format that can be easily processed and stored by computers
+• To encode text information for efficient transmission
+308. What does encoding of text information refer to?
+• The process of converting color information into numerical values
+• The process of converting video frames into a sequence of images
+• The process of converting audio signals into digital format
+√ The process of converting text into a specific format for efficient storage and transmission
+• The process of converting numerical data into graphical representation
+309. What is a hash function?
+• An ascending order algorithm for sorting data
+• A circular algorithm for storing data
+• A sequential algorithm for arranging data
+• A hierarchical algorithm for creating relationships
+√ A mathematical algorithm by which information is hashed
+310. What happens if you change one letter in a word and hash the resulting string again?
+• The new hash will be slightly different
+• The new hash will have the same length as the original
+• The new hash will be hierarchically related
+√ The new hash will be completely different
+• The new hash will be identical
+311. How is information transformed in hashing?
+• Using a sequential algoritm
+• Using a circular algorithm
+• Using an ascending order algorithm
+√ Using special mathematical formulas
+• Using a hierarchical algorithm
+312. What is a collection of key-value pairs called?
+• A queue
+• A list
+• A tree
+• A stack
+√ A dictionary
+313. What is hashing in the context of data structures?
+• The process of creating hierarchical relationships
+• The process of arranging data sequentially
+• The process of sorting data in ascending order
+• The process of storing data in a circular manner
+√ The process used to uniquely identify objects and store each of them in some pre-computed unique index
+314. What does the "isEmpty" operation do in a linked list?
+• Deleting the specified element
+• Insertion at the end
+√ Returns true if the linked list is empty
+• Returns false if the linked list is empty
+• Insertion at the beginning
+315. What is a parent node in the context of a tree?
+• Each vertex of a tree
+• The sub-node of a parent node
+• The last node that does not have any sub-node
+√ The node has an edge-sharing to a child node
+• The topmost node of a tree
+316. What is a child node in the context of a tree?
+√ The sub-node of a parent node
+• The last node that does not have any sub-node
+• The node has an edge-sharing to a child node
+• The topmost node of a tree
+• Each vertex of a tree
+317. What is the root in the context of a tree?
+√ The topmost node of a tree
+• The node has an edge-sharing to a child node
+• The last node that does not have any sub-node
+• Each vertex of a tree
+• The sub-node of a parent node
+318. What is a node in the context of a tree?
+• The node has an edge-sharing to a child node
+• The topmost node of a tree
+• The sub-node of a parent node
+√ Each vertex of a tree
+• The last node that does not have any sub-node
+319. What does the "Search" operation do in a linked list?
+• Deleting the specified element
+• Insertion at the end
+• Checking if the linked list is empty
+• Insertion at the beginning
+√ Getting the specified element
+320. What does the "DeleteAtHead" operation do in a linked list?
+• Checking if the linked list is empty
+• Deleting the specified element
+• Insertion at the beginning
+√ Deleting the first element
+• Insertion at the end
+321. What do hash table data structures consist of?
+• Single values
+• Parent-child relationships
+• Elements and indices
+√ Key-value pairs
+• Nodes and edges
+322. How can hash tables be implemented?
+• As circular data structures
+• As edge-based data structures
+• As key-only data structures
+√ As linear or non-linear data structures
+• As hierarchical data structures
+323. How many paths should exist between the root and a node in a tree?
+• Multiple paths
+• Cyclic paths
+• Infinite paths
+√ Only one path
+• No paths
+324. How is the structure of a tree formed?
+• It follows the First-In-First-Out (FIFO) principle
+• It uses key-value pairs
+• It arranges elements in a circular manner
+√ It forms a relationship like that of a parent and a child
+• It creates interconnected loops
+325. What is the main difference between a tree and a graph?
+• A graph cannot have a cycle
+√ A tree cannot have a cycle
+• Graphs are hierarchical data structures
+• Trees do not have edges
+• Trees are linear data structures
+326. What are some real-life problems that can be represented through graphs?
+• Inventory management and budgeting
+√ Social networks and telephone networks
+• Educational assessments and testing
+• Medical diagnosis and treatment plans
+• Weather forecasting and climate modeling
+327. What is a key difference between a graph and a tree?
+• In a graph, nodes are connected in a hierarchical manner
+√ In a graph, there are no specific rules for the connection of nodes
+• In a tree, nodes are arranged in a circular structure
+• In a graph, nodes must be connected in a sequential order
+• In a tree, nodes can only have one connection
+328. How do the edges in a graph function?
+• Connect edges
+√ Show the vertices' relationship
+• Form hierarchical relationships
+• Generate random values
+• Create loops
+329. What do the vertices (or nodes) in a graph do?
+• Connect edges
+√ Store data
+• Form hierarchical relationships
+• Generate random values
+• Create loops
+330. What does the "Delete" operation do in a linked list?
+• Checking if the linked list is empty
+• Insertion at the beginning
+√ Deletes the specified element
+• Getting the specified element
+• Deletes the first element
+331. What does the "InsertAtEnd" operation do in a linked list?
+• Insertion at the beginning
+√ Insertion at the end
+• Getting the specified element
+• Checking if the linked list is empty
+• Deleting the first element
+332. What are the two types of linked lists?
+• Single-level and multi-level
+√ Unidirectional and bidirectional
+• Simple and complex
+• Static and dynamic
+• Linear and circular
+333. What are linked lists used to implement?
+• Sorting algorithms, search algorithms, and mathematical functions
+√ File systems, hash tables, and adjacency lists
+• Graphical user interfaces, and web applications
+• Numerical computations and data analysis
+• User interfaces, databases, and network protocols
+334. What happens if the linked list is empty?
+• The head pointer points to the last element
+√ The head pointer points to null
+• The head pointer points to a dummy node
+• The head pointer points to the first element
+• The head pointer points to the middle element
+335. What does the head pointer in a linked list refer to?
+• The last element
+√ The first element
+• The element with the highest value
+• The element with the lowest value
+• The middle element
+336. What is a linked list?
+• A fixed-size sequence of elements
+√ A network of nodes, each of which contains data and a pointer to the next node in the chain
+• A linear data structure that follows the Last-In-First-Out (LIFO) principle
+• A data structure used for key-value pairing
+• A collection of nodes connected by edges
+337. What does the operation "Top" do in the context of queues?
+• Returns true if the queue is full
+√ Getting the first element
+• Removes an element from the beginning
+• Insertion at the beginning
+• Inserts an element at the end
+338. What is the alternate name for the XOR gate?
+• Exclusive NOR gate or Ex-NOR gate
+• Exclusive NAND gate or Ex-NAND gate
+• Exclusive AND gate or Ex-AND gate
+• Exclusive NOT gate or Ex-NOT
+√ Exclusive OR gate or Ex-OR gate
+339. What two basic logic gates represent the NOR gate?
+• NOR gate and NOT gate
+• XOR gate and NOR gate
+• AND gate and NOT gate
+√ OR gate and NOT gate
+• AND gate and OR gate
+340. How many inputs can a NOR gate take?
+• Four inputs
+• Five outputs
+• One input line
+• Three inputs
+√ Two or more input lines
+341. What type of logic gate is the NOR gate?
+• An analog logic gate
+• A hybrid logic gate
+• A basic logic gate
+• A derived logic gate
+√ A universal logic gate
+342. What two basic logic gates represent the NAND gate?
+• OR gate and NOT gate
+• NOR gate and NOT gate
+• AND gate and OR gate
+√ AND gate and NOT gate
+• XOR gate and NOR gate
+343. What is the output configuration of a NAND gate?
+• Two output lines
+• Five output lines
+• Four output lines
+√ One output line
+• Three output lines
+344. What is a Boolean operator described using?
+• A Venn diagram
+• A pie chart
+• A flowchart
+• A histogram
+√ A truth table
+345. What material is a transistor made of?
+• Magnetic material
+• Reflective material
+• Conductive material
+• Insulating material
+√ Semiconductor material
+346. What is a transistor?
+• A device that converts sound waves into electrical signals
+• A device that amplifies light signals
+• A device that generates electricity from solar energy
+• A device that stores data in digital systems
+√
+A device that acts either as a wire that conducts electricity or as a resistor that blocks the flow of electricity, depending on the voltage
+level of an input signal
+347. Which logical operation is denoted by an over bar ( ¯ )?
+• XOR
+• NAND
+• AND
+• OR
+√ NOT
+348. Which logical operation is denoted by a plus (+)?
+• XOR
+• NOT
+• AND
+√ OR
+• NAND
+349. Which logical operation is denoted by a dot (·)?
+• XOR
+• OR
+• NOT
+√ AND
+• NAND
+350. How is the NOT operation denoted?
+• By a dot (·)
+• By a double quote mark (")
+• By a caret (^)
+√ By an over bar ( ¯ ), a single quote mark (') after, or (~) before the variable
+• By a plus (+)
+351. How is the OR operation denoted?
+• By a dot (·)
+• By a tilde (~)
+• By a single quote mark (')
+√ By a plus (+)
+• By an over bar ( ¯ )
+352. How is the AND operation denoted?
+• By a tilde (~)
+• By a plus (+)
+• By an over bar ( ¯ )
+√ By a dot (·)
+• By a single quote mark (')
+353. What are the three basic logical operations?
+• NOT, AND, NAND
+• OR, NAND, NOR
+√ AND, OR, NOT
+• AND, XOR, XNOR
+• NAND, NOR, XOR
+354. What is one of the functions of an operating system in managing applications?
+• Storing all data permanently
+• Executing all calculations
+• Controlling network connections
+• Displaying user interfaces
+√ Time-sharing multiple processes or threads
+355. How does the operating system map files?
+• Onto primary memory
+√ Onto secondary storage
+• Onto peripheral devices
+• Onto user interfaces
+• Onto network drives
+356. What is a file?
+• A peripheral device for data input
+• A network protocol for data transmission
+√ A collection of related information defined by its creator
+• A type of memory used in computers
+• A hardware component of a computer
+357. What is the main purpose of an embedded operating system?
+• To provide real-time processing for critical applications
+√ To control and manage specific hardware and software tasks within dedicated devices
+• To facilitate time-sharing between users
+• To handle batch processing of jobs
+• To manage network communication between devices
+358. Which type of operating system is designed to provide real-time processing for critical applications?
+• Time-Sharing OS
+√ Real-Time OS
+• Embedded OS
+• Multiprocessing OS
+• Distributed OS
+359. What is the primary function of a network operating system (NOS)?
+• To provide real-time processing for industrial applications
+√ To facilitate communication between devices on a local area network (LAN)
+• To run multiple programs simultaneously
+• To handle batch processing of jobs
+• To control embedded systems
+360. Which type of operating system manages a group of independent computers and makes them appear as a single system?
+• Embedded OS
+√ Distributed OS
+• Batch Operating System
+• Time-Sharing OS
+• Multiprocessing OS
+361. Which type of operating system allows multiple users to interact with the system at the same time?
+• Batch Operating System
+√ Time-Sharing OS
+• Distributed OS
+• Embedded OS
+• Multiprocessing OS
+362. What is the main purpose of a multiprogramming operating system?
+• To provide real-time processing for industrial applications
+√ To run multiple programs simultaneously by utilizing system resources efficiently
+• To control embedded systems
+• To facilitate time-sharing between users
+• To manage network communication between devices
+363. What is the main purpose of multiprogramming in an operating system?
+• Increasing security
+√ Resource utilization
+• Reducing power consumption
+• Providing real-time processing
+• Enhancing user interface
+364. What user interfaces can be used to interact directly with the operating system?
+• Web browser or email client
+√ Command-line interface (CLI) or graphical user interface (GUI)
+• Hardware switches or buttons
+• Peripheral devices like printers or scanners
+• Touchscreen or voice recognition
+365. What is the role of the operating system (OS)?
+• Executes arithmetic and logical operations
+√ Governs the computer’s functionality above firmware and manages memory usage and devices
+• Stores data temporarily
+• Executes logical operations
+• Retrieves the operating system from the disc
+366. What type of real-time system is typically used in multimedia applications?
+• Hard real-time system
+√ Soft real-time system
+• Network operating system
+• General-purpose operating system
+• Embedded operating system
+367. What is an operating system (OS)?
+• A hardware component that stores data permanently
+√ A program that manages all other application programs in a computer after being initially loaded by a boot program
+• A peripheral device for user input
+• A software tool for data analysis
+• A network device that facilitates data transmission
+368. How do application programs interact with the operating system?
+• By directly accessing hardware components
+√ By making requests for services through a defined application program interface (API)
+• By using a web browser
+• By executing commands through the network
+• By storing data in external memory
+369. Why is an operating system beneficial for computer software and software development?
+• It increases the hardware complexity
+√ It offloads common tasks to system software, reducing the size of applications and making software development practical
+• It limits the number of applications that can be run
+• It requires extensive programming knowledge
+• It slows down the processing speed
+370. How does an operating system handle interrupts created by applications?
+• By ignoring them
+√ By getting a processor's attention
+• By displaying them on the screen
+• By sending them to the printer
+• By storing them in memory
+371. How does the operating system perform error handling for applications?
+• By restarting the computer
+• By displaying error messages on the screen
+• By storing error logs in memory
+√ By enabling the gentle termination of an application's processes
+• By deleting the application
+372. What does the operating system do in terms of memory management?
+• Stores all data in external memory
+• Compresses data to save space
+• Provides additional memory for applications
+√ Ensures memory management without interfering with other applications or the operating system
+• Displays memory usage statistics
+373. How does the operating system use the Flag register in system calls?
+√ To determine the CPU’s status before and after a system call
+• To allocate additional RAM and to adjust the execution order of processes
+• To store user input data
+• To manage cache memory allocation
+• To adjust the execution order of processes
+374. What does the Zero Flag indicate during logical operations?
+• The CPU clock frequency
+• The address of the next instruction
+• The status of system calls
+√ Whether the result of the operation was zero
+• The number of instructions executed
+375. Which logical operations rely on the Flag register?
+• Floating-point calculations
+• Interrupt handling operations
+• Multiplication and division
+• Addition and subtraction
+√ AND, OR, and XOR
+376. How does the Carry Flag assist in arithmetic operations?
+• It controls the speed of logical operations
+√ It detects if there was a carry during addition or a borrow during subtraction
+• It manages memory allocation during execution
+• It stores intermediate results of calculations
+• It directs external device signals
+377. What is the primary function of the Flag register in conditional branching?
+• Storing general-purpose data
+• Increasing the CPU clock speed
+• Controlling input/output operations
+√ Making decisions based on instruction results to determine whether to branch
+• Managing external memory devices
+378. What happens to the flags in the status register during program execution?
+• They hold program counter values
+• They store arithmetic results permanently
+• They remain unchanged
+√ They are updated to reflect the outcome of executed instructions
+• They manage cache memory configurations
+379. What does the CPU use the status register for when handling errors?
+• Reducing instruction processing delays
+• Allocating extra memory space
+• Managing external hardware connections
+• Storing floating-point calculations
+√ Tracking conditions that may indicate errors or specific CPU states
+380. What role does the status register play in instruction flow control?
+• It improves memory storage capacity
+• It restricts access to system interrupts
+• It stores general-purpose data for long-term processing
+• It increases CPU clock speed
+√ It helps manage program execution based on instruction outcomes
+381. How does the status register assist in CPU decision-making?
+• By limiting the number of executed instructions
+• By directly executing arithmetic operations
+• By storing external device configurations
+√ By updating flags based on the result of previously executed instructions
+• By adjusting the CPU clock speed
+382. What is the primary function of the status register in a CPU?
+• Providing essential information about the storage program instructions
+• Handling arithmetic calculations
+• Controlling memory allocation
+√ Providing essential information about the CPU’s state during program execution
+• Managing input/output operations
+383. Why are registers considered essential for CPU performance?
+√ They provide fast access to frequently used data and facilitate efficient data manipulation
+• They allow direct interaction with external storage devices
+• They eliminate the need for cache memory
+• They replace the function of RAM and facilitate efficient data manipulation
+• They increase the physical size of the CPU
+384. What is the primary disadvantage of registers?
+• High power requirements
+• Incompatibility with modern processors
+• Excessive memory consumption
+• Slow access speeds
+√ Limited capacity restricts the amount of data they can hold
+385. How do registers improve data processing efficiency?
+• By controlling the execution of external programs
+• By storing large amounts of long-term data
+• By limiting the flow of instructions in a CPU
+• By reducing the number of arithmetic operations required
+√ By enabling quick data manipulation and reducing reliance on slower main memory
+386. What is one major advantage of registers in a CPU?
+• Management of peripheral devices
+• Expanded storage capacity for long-term data
+• Direct control of power distribution
+√ Fast access times due to proximity to the CPU
+• Reduction of CPU clock speed
+387. What is the purpose of the Instruction Register (IR)?
+• Storing arithmetic results
+• Managing peripheral connections
+• Keeping cache memory organized
+√ Holding the instruction that is about to be executed
+• Controlling memory allocation
+388. What does the Program Counter (PC) track?
+• The status of logical operations
+• The address of the previously executed instruction
+• The result of arithmetic operations
+• The execution time of programs
+√ The memory address of the next instruction to be fetched
+389. What is the role of the Memory Data Register (MDR)?
+• Storing program execution flow and managing processor interrupts
+• Keeping track of instruction counts
+√ Holding data to be written to or read from the addressed memory location
+• Managing processor interrupts
+• Storing floating-point operations
+390. What does the Memory Address Register (MAR) store?
+• The program execution counter
+• Instructions ready for execution
+• Temporary arithmetic results
+√ The address of the memory location to be accessed
+• The actual data to be processed
+391. What is the function of the Accumulator register?
+• Managing input/output operations
+• Controlling program execution flow
+• Storing machine instructions
+√ Storing data taken from memory for immediate processing
+• Holding memory addresses for instruction execution
+392. How do registers enhance CPU performance?
+• Increasing the clock speed
+• Managing external device connections
+√ Providing fast access to frequently used data
+• Reducing power consumption
+• Expanding memory capacity
+393. Which of the following belongs to External Memory (Secondary Memory)?
+• USB Flash Drive and GPU Memory
+• RAM and Cache Memory
+• CPU Registers and ALU Storage
+√ Magnetic Disk, Optical Disk, and Magnetic Tape
+• BIOS and ROM Modules
+394. What are the two main types of memory in the Memory Hierarchy Design?
+• CPU Registers and External Memory (Secondary Memory)
+• Cache Memory and RAM
+• ROM and Flash Memory
+√ External Memory (Secondary Memory) and Internal Memory (Primary Memory)
+• Optical Storage and Primary Memory
+395. What happens after the Memory Management Unit (MMU) completes the address translation process?
+• The MMU permanently locks physical memory locations for security
+• The MMU reassigns unused memory blocks to random processes
+• The MMU deletes all page table entries to free up storage space
+√ The MMU sends the physical memory address to RAM for the CPU to access
+• The MMU restricts applications from using virtual memory
+396. What does the Memory Management Unit (MMU) do when a program requests a virtual address?
+• It prevents the application from executing if virtual memory is used
+• It compresses memory data before allocation
+• It automatically allocates additional RAM for larger applications
+• It sends data directly to the CPU without checking the memory location
+√ It searches page table entries to determine the associated physical memory address
+397. How does the Memory Management Unit (MMU) handle virtual memory address translation?
+• It prevents memory allocation for new processes
+√ It converts virtual addresses into physical addresses when a program requests memory access
+• It compresses data before storing it in RAM
+• It removes physical memory addresses from RAM permanently
+• It directs all memory access requests exclusively to the hard drive
+398. What is the primary function of a Memory Management Unit (MMU)?
+• Managing network data transfers
+• Increasing RAM size dynamically without hardware upgrades
+• Enhancing CPU clock speed for faster processing
+√ Translating virtual memory addresses into physical memory addresses
+• Preventing applications from accessing system memory
+399. Which of the following statements about virtual memory is correct?
+• It removes the need for RAM entirely
+• It speeds up storage devices beyond their hardware limits
+• It directly influences GPU performance without requiring additional configuration
+• It eliminates the need for caching mechanisms in processors
+√ It works as an extension of physical RAM, managed by the operating system
+400. What is a potential drawback of relying heavily on virtual memory?
+• Higher CPU clock speeds due to reduced memory load
+• Increased memory speed without any limitations
+• Increased RAM capacity without physical upgrades
+• Instant program execution without delays
+√ Slower system performance due to frequent disk swapping
+401. How does virtual memory optimize RAM utilization?
+• It increases physical RAM capacity dynamically
+• It clears all memory after each application is closed
+• It prioritizes background processes over user applications
+√ It keeps frequently accessed data in RAM while transferring less-used information to disk
+• It prevents data from being moved between RAM and disk storage
+402. What is the primary security benefit of virtual memory?
+• All applications share a common memory space for easier access
+• It limits the ability of applications to communicate with external devices
+• It disables memory protection features to improve performance
+√ Each program runs in its own memory space, preventing interference from other applications
+• It allows unrestricted access between running programs
+403. How does virtual memory help when physical RAM is limited?
+• It eliminates the need for physical RAM entirely
+• It prevents applications from utilizing available memory
+• It stores all data permanently in the hard drive
+√ It enables running larger applications and multiple programs simultaneously
+• It reduces the system’s ability to execute multiple processes
+404. What is the key advantage of LED monitors?
+• Consumes more power than standard LCDs
+• Always thicker than LCD monitors
+• Less brightness compared to CRT monitors
+• Limited to lower resolutions
+√ Uses light-emitting diodes instead of CCFLs
+405. What differentiates LED monitors from traditional LCD screens?
+• Always requires a separate power source
+• Limited to monochrome displays
+• Requires external cooling for heat management
+• Lacks backlight control
+√ Uses diodes for enhanced contrast and brightness
+406. What is a key advantage of LCD monitors?
+• Generates more heat than LED displays
+• Always thicker than CRT monitors
+√ Takes up less space and uses less electricity
+• Requires high-voltage power input
+• Limited compatibility with modern graphics cards
+407. What is the benefit of using an optical mouse?
+• Needs a physical ball for movement detection
+• Limited functionality on non-flat surfaces
+• Requires external calibration before use
+√ Smooth and precise cursor movement without a mouse pad
+• Works only with wired connections
+408. What process does an optical mouse use to track movement?
+• Requires a mouse pad for accurate tracking
+√ Captures hundreds of images per second
+• Uses mechanical ball rotation
+• Relies on infrared motion sensors
+• Operates only on glossy surfaces
+409. What is a potential drawback of using a wireless mouse?
+• Limited to only professional use
+• Cannot be used with any laptops
+• Always requires a wired backup
+• Not compatible with USB technology
+√ Possible lag in response time in certain situations
+410. What is the primary advantage of wireless mice?
+• Always more precise than wired models
+• Requires constant recalibration for tracking
+√ No cables, providing a clutter-free workspace
+• Only works with mechanical switches
+• Cannot connect to gaming PCs
+411. What is a key benefit of using a wired mouse?
+• Always has built-in rechargeable batteries
+√ Faster reaction times due to direct data transmission
+• Limited compatibility with gaming setups
+• Only used for mobile devices
+• Requires a wireless dongle for operation
+412. How do trackball mice differ from traditional mice?
+• They rely only on touchscreen input
+• They require gliding across a desk or mousepad
+• They are exclusively used for gaming
+√ The user manipulates the ball directly for cursor movement
+• They have no external moving parts
+413. What is a common feature of an optical mouse?
+• Operates only on glass surfaces
+• Always requires a wired connection
+• Requires manual calibration before use
+• Has a mechanical ball for tracking
+√ Uses LED light emitters to detect movement
+414. What is a defining characteristic of mechanical mice?
+• Always wireless
+• Uses laser-based tracking
+√ Uses a ball to track movement
+• Relies on infrared sensors
+• Tracks movement optically
+415. Which devices can work with a wireless keyboard?
+• Devices with only mechanical switches
+• Only devices with HDMI ports
+√ Windows, Mac, mobile devices, and tablets
+• Exclusively gaming consoles
+• Only desktop computers
+416. What is the key advantage of wireless keyboards?
+• Always faster than wired keyboards
+√ Increased flexibility and no cables
+• Only used in gaming PCs
+• Limited compatibility with mobile devices
+• Lower power consumption compared to mechanical keyboards
+417. What type of wireless connection is used in keyboards?
+• Only Wi-Fi
+√ Bluetooth and USB-RF
+• Serial connection via RS-232
+• Only wired USB
+• Infrared connection
+418. Why is the numeric keypad useful?
+• It replaces all alphabetic keys in specialized keyboards.
+√ It provides a calculator-like layout for efficient number entry, typically located on the right side of the keyboard.
+• It regulates the power consumption of computing peripherals.
+• It enhances audio transmission in digital interfaces.
+• It exclusively functions as a decorative element in multimedia setups.
+419. What is the function of the arrow keys on a keyboard?
+• They store system preferences permanently.
+√ They facilitate navigation within documents, menus, and interfaces.
+• They replace the numeric keypad in compact keyboards.
+• They exclusively function as gaming controls.
+• They regulate the brightness of the screen.
+420. Why is the Escape key (Esc) important?
+• It enhances the speed of typing commands.
+√ It reverses a command and allows users to go back in time within an interface or application.
+• It exclusively functions as a part of the numeric keypad.
+• It stores temporary input data for later retrieval.
+• It regulates the brightness of connected displays.
+421. How has the design of keyboards evolved over time?
+• Keyboard designs have remained unchanged since their invention.
+√
+Early keyboards were similar to typewriters, but modern keyboards feature backlit keys, programmable functions, and ergonomic
+improvements.
+• The modern keyboard eliminates the need for physical key layouts.
+• Keyboards now function as external storage devices for computers.
+• Early keyboards focused solely on gaming functionalities.
+422. What is the primary function of a computer keyboard?
+• It enhances the processing speed of a computer system.
+√ It allows users to type text, enter commands, and provide data input on a monitor screen.
+• It regulates power consumption in computing devices.
+• It exclusively functions as a decorative component in electronics.
+• It stores data permanently within the system.
+423. What role do wireless peripherals play in modern computing?
+• They replace all wired connections in electronic devices.
+√ Wireless earbuds, routers, and Bluetooth speakers allow for untethered connectivity, improving convenience and flexibility.
+• They limit signal interference across home networks.
+• They serve primarily as decorative components in multimedia setups.
+• They exclusively function in business environments.
+424. Why are gaming peripherals important for gaming setups?
+• Devices like gaming headsets, keyboards, fiber optic cables, cache memory, and SSD storage
+√ Devices like gaming headsets, keyboards, and PCs enhance responsiveness, audio quality, and overall user experience.
+• Devices like gaming headsets, multifunction printers, and keyboards
+• Devices like gaming headsets, touch-sensitive screens, and modems
+• Devices like gaming headsets, keyboards, fiber optic connections
+425. Which of the following devices serve as both input and output peripherals?
+• Wireless routers, Bluetooth headphones, and network cables
+√ Multifunction printers, touch-sensitive screens, and modems
+• Fiber optic connections, voltage regulators, and backup power supplies
+• Internal processors, cache memory, and SSD storage
+• External cooling fans, RAM modules, and system heat sinks
+426. Which peripherals allow for wireless communication and connectivity?
+• Bluetooth speakers, external cooling fans, and heat sinks
+√ Wireless routers, wireless earbuds, and Bluetooth speakers
+• Gaming headsets, gaming keyboards, and ultrawide monitors
+• CD/DVD drives and optical storage solutions
+• Fiber optic network cables, Bluetooth speakers and LAN adapters
+427. Which of the following peripheral devices are used for storage and backup purposes?
+• AI mice, budget headphones, and gaming keyboards
+√ External hard drives, pen drives, and cloud-based storage solutions
+• System cooling fans, voltage regulators, pen drives, and power supply units
+• Ultrawide monitors, projectors, and display screens
+• External hard drives, Bluetooth adapters, and network cables
+428. Which of the following peripherals are primarily designed for audio output?
+• AI mice, external hard drives, and gaming PCs
+√ Bluetooth speakers, budget headphones, gaming headsets, and wireless earbuds
+• Bluetooth speakers, monitors, projectors, and ultrawide display screens
+• Battery packs, wireless earbuds, and wired network adapters
+• CD/DVD drives, wireless earbuds
+429. Which peripheral devices are commonly used in gaming and high-performance computing?
+• Fiber optic cables, gaming headsets, and voltage regulators
+√ Gaming keyboards, gaming headsets, ultrawide monitors, and gaming PCs
+• Wireless routers, gaming headsets, ultrawide monitors, cloud-based processors
+• Ultrawide monitors, internal storage components, and circuit boards
+• System cooling fans and external RAM modules
+430. What is the primary role of peripheral devices in computing?
+• Managing internal system operations without external components
+√ Enhancing user interaction by providing input, output, or connectivity functions
+• Preventing overheating within a computer system
+• Limiting data access in online networks
+• Reducing power consumption for computing devices
+431. Which peripheral device serves as a storage solution?
+• Cooling fans
+√ External hard drives
+• Network adapters
+• Voltage regulators
+• Wireless earbuds
+432. Which of the following peripherals are commonly used for wireless communication?
+• Network cables, wireless routers, and fiber optic connections
+√ Bluetooth speakers, wireless earbuds, wireless routers, and gaming headsets
+• System cooling fans and heat sinks
+• Internal RAM modules and processors
+• Bluetooth speakers, battery packs, and voltage regulators
+433. Which statement correctly classifies peripheral devices?
+• They only serve as cooling mechanisms for computer hardware
+• They replace primary memory storage solutions in computing
+• They do not interact with any external devices or networks
+• They consist entirely of internal components within a computer system
+√ They include external hardware like monitors, keyboards, printers, and speakers
+434. What is one benefit of compressed data when it comes to data transmission?
+• Compressed data takes longer to transmit
+• Compressed data is harder to transmit
+• Compressed data requires more bandwidth
+√ Compressed data can be transmitted faster over networks
+• Compressed data is less reliable
+435. Why are data compression algorithms important for businesses and data processing?
+• They complicate data processing
+• They increase data redundancy
+• They slow down data transmission
+√
+They offer several benefits, including reduced storage requirements, faster data transmission, optimized data processing and analytics,
+and increased data security
+• They require more storage space
+436. Who were the developers of the electrical telegraph system that used Morse Code?
+• Thomas Edison, Alexander Graham Bell, and Nikola Tesla
+• Charles Babbage, Ada Lovelace, and George Boole
+• James Clerk Maxwell, Heinrich Hertz
+√ Samuel Morse, Joseph Henry, and Alfred Vail
+• Alan Turing, John von Neumann
+437. What are the long bursts of sound or light in Morse Code called?
+• Dash
+• Dit
+• Dot
+√ Dah
+• Bit
+438. What are the short bursts of sound or light in Morse Code called?
+• Dot
+• Dah
+• Bit
+• Dash
+√ Dit
+439. What is Morse Code used for?
+• To design user interfaces
+• To encrypt sensitive information
+• To create digital art
+√ To communicate through telegraph, radio, satellite, or light
+• To control machinery
+440. In what type of systems does symmetric encryption work best?
+√ Closed systems with less risk of third-party intrusion
+• Open systems with multiple access points
+• Cloud-based systems with virtualized infrastructure
+• Public systems with shared resources
+• Distributed systems with high redundancy
+441. What is BitLocker Drive Encryption?
+• A file compression tool that reduces storage space
+• A network security protocol that encrypts internet traffic
+• A cloud-based service that stores encrypted data
+• A software application that manages system resources
+√ A disk encryption technology that is part of the operating system
+442. What happens when you activate BitLocker on a Windows computer?
+• Temporary files are deleted
+• The operating system is reinstalled
+• System updates are installed
+• Network settings are reset
+√ All hard drives are encrypted
+443. What are the two main components of the CPU?
+• Input Unit and Output Unit
+• Keyboard and Mouse
+• Display and Printer
+√ Arithmetic Logic Unit (ALU) and Control Unit (CU)
+• Primary Memory and Secondary Memory
+444. What is the role of the Central Processing Unit (CPU)?
+• To transfer data between memory and storage
+• To display processed data to the user
+• To store data permanently
+√ To control, coordinate, and supervise the operations of the computer
+• To read data from input devices
+445. What are the three main components of computer system hardware?
+• Processor, Memory, Storage
+• Power Supply, Cooling System, Case
+• Network Interface, Sound Card, Graphics Card
+√ Input/Output (I/O) Unit, Central Processing Unit (CPU), Memory Unit
+• Display, Keyboard, Mouse
+446. What is the characteristic of RAM?
+• It displays processed data to the user
+• It contains pre-installed instructions that cannot be modified
+• It permanently retains vast amounts of data
+√ It supplies the necessary information straight to the CPU and stores data intermittently
+• It converts compressed audio data
+447. How are sophisticated instructions executed in RISC architecture?
+• Sophisticated instructions are executed through a specialized hardware
+• Sophisticated instructions are executed through a complex ones
+• Sophisticated instructions are executed through multiple processing units
+√ Sophisticated instructions are executed through a combination of simplified instruction sets, pipelining, and compiler optimization
+• Sophisticated instructions are executed through a auxiliary memory
+448. What is the design goal of RISC architecture hardware?
+• To provide extensive peripheral support
+• To maximize memory usage
+• To support complex instructions
+√ To simplify instruction execution and maximize efficiency
+• To minimize power consumption
+449. What was the reason for the creation of high-performance computers based on RISC architecture?
+• The need for more complex instructions
+• The improvement in software algorithms
+• The development of new programming languages
+√ RISC processors use a simplified instruction set, allowing for faster execution and improved performance
+• The availability of cheaper hardware components
+450. What is the main advantage of CISC processors for programmers?
+• The ability to handle multiple tasks simultaneously
+• The reduction in hardware costs
+• The ability to execute complex instructions quickly
+• The use of less power
+√ Fewer lines of code are required to complete the operation
+451. What is the advantage of CISC processors?
+√ They reduce the number of instructions needed in a program
+• They require more cycles per instruction
+• They simplify compiler design by limiting instruction formats
+• They avoid using microcode for instruction execution
+• They minimize instruction variety to increase safety
+452. What is a key characteristic of CISC processors?
+• They have minimal addressing modes
+• They execute only simple instructions
+• They lack microprogram control units
+• They limit instruction set expansion
+√ They support complex multi-step instructions
+453. What does the Program Counter (PC) register do?
+√ Keeps track of the program instruction to be executed next
+• Stores the current instruction most recently fetched
+• Contains the address of the next location in the memory to be accessed
+• Temporarily stores data from memory or the data to be sent to memory
+• Stores the operands and any other data
+454. What operations are performed by the logic unit in the ALU?
+• Storing data permanently
+• Reading data from input devices
+√ Comparisons of numbers, letters, and special characters
+• Transferring data between memory and storage
+• Displaying processed data to the user
+455. What does the control unit (CU) of a computer do?
+• Performs arithmetic and logic operations
+√ Organizes the processing of data and instructions and controls the activity of other units of the computer
+• Displays processed data to the user
+• Transfers data between memory and storage
+• Stores data permanently
+456. What is a bus in computer architecture?
+• An output device for displaying information
+• A network device for communication
+• A long-term storage device for data
+• An input device for user commands
+√ A tangible collection of signal lines that enable the flow of electrical impulses between components
+457. What does the bootloader do?
+• Manages input and output devices
+• Executes arithmetic and logical operations
+• Outputs data to external devices
+• Stores data permanently
+√ Retrieves the operating system from the disc and loads it into the memory
+458. What is the primary component of computer hardware that runs the CPU?
+• Hard disk drive
+• Network card
+• Display monitor
+√ Microprocessor
+• Random access memory
+459. What is the function of the control unit in the CPU?
+• Reads data from input devices
+• Executes arithmetic and logical operations
+• Stores data temporarily
+√ Instructs the computer to execute stored program instructions via communication with the ALU and registers
+• Outputs data to external devices
+460. What does the arithmetic logic unit (ALU) do?
+• Stores data permanently
+• Manages input and output devices
+• Converts audio data to video data
+• Displays processed data to the user
+√ Performs arithmetic and logical processes on supplied data
+461. What are registers?
+• Output devices for displaying information
+• Network devices for communication
+• Long-term storage devices for data
+• Input devices for user commands
+√ High-speed and purpose-built temporary memory devices accessed and modified directly by the CPU
+462. What is one disadvantage of a Time-Sharing Operating System?
+• CPU idle time is reduced.
+• Data communication is seamless.
+• Each task gets equal opportunities.
+√ Reliability problem.
+• It duplicates software unnecessarily.
+463. What is one advantage of a Time-Sharing Operating System?
+• CPU idle time is increased.
+• Data communication issues are solved completely.
+• It eliminates all security risks.
+√ Each task gets an equal opportunity.
+• It ensures a fully reliable system.
+464. Which feature helps reduce CPU idle time in Time-Sharing Operating Systems?
+• Pausing user commands for extended periods.
+• Reducing communication reliability.
+• Implementing separate systems for each user.
+• Eliminating job scheduling mechanisms.
+√ Sharing processor time among multiple users.
+465. What mechanism enables Time-Sharing Systems to serve multiple users simultaneously?
+• Memory allocation is distributed evenly.
+• Users share physical terminals without scheduling.
+• Multiple processors handle user requests.
+√ Processor's time is shared among multiple users.
+• I/O devices process requests in real-time.
+466. What is the main objective of Time-Sharing Operating Systems?
+• To maximize processor usage.
+• To reduce transaction processing errors.
+• To enhance batch processing efficiency.
+√ To minimize response time.
+• To improve memory allocation.
+467. What mechanism does multiprogramming use to increase processor efficiency?
+• Requiring manual scheduling of I/O operations.
+• Reducing the number of programs queued for execution.
+• Assigning multiple processors to share job execution.
+• By eliminating CPU scheduling mechanisms.
+√ Organizing jobs to ensure the CPU always has one to execute.
+468. How does multiprogramming create the impression of parallel processing?
+• By running multiple programs truly simultaneously on multiple processors.
+• By utilizing pseudo-parallel mechanisms across different CPUs.
+• By storing programs in separate memory spaces.
+√ By executing part of one program, then part of another, and so on.
+• By eliminating CPU scheduling mechanisms.
+469. How does a multiprogramming operating system increase CPU utilization?
+• By eliminating CPU scheduling mechanisms.
+• By reducing the number of jobs in the queue.
+• By using multiple processors to execute jobs.
+√ By organizing jobs so that the CPU always has one job to execute.
+• By limiting the execution time for each job.
+470. What devices do users use to prepare their jobs in Batch Operating System?
+• Touchscreens.
+• Online devices like keyboards.
+• Voice recognition systems.
+√ Offline devices like punch cards.
+• Tablets.
+471. How do users interact with the computer in Batch Operating System?
+• Users interact with the computer directly
+• Users use a graphical user interface
+• Users use a command-line interface
+√ Users do not interact with the computer directly
+• Users use touchscreens
+472. What is a common feature of soft real-time systems?
+• They only run on mobile devices
+• They are used only in military applications
+• They are critical for safety and must be processed within strict time constraints
+√ They can tolerate some delays and do not require immediate processing
+• They are always embedded in hardware devices
+473. What is an example of a soft real-time system?
+√ Personal computer
+• Autopilot system in plane
+• Missile guidance systems
+• Air traffic control systems
+• Railway signaling system
+474. What is Hypervisor Mode primarily used for?
+√ Supporting virtualization and allowing multiple operating systems to run simultaneously
+• Reducing instruction execution cycles
+• Managing memory allocation
+• Optimizing cache performance
+• Controlling GPU operations
+475. What is the main characteristic of User Mode?
+• It disables the CPU cache
+• It only supports single-user applications
+• It accelerates the CPU clock speed
+√ It restricts certain operations to prevent altering the global system state
+• It allows direct access to system hardware
+476. What is Kernel Mode?
+• A restricted mode with limited access to system memory
+• A power-saving mode for CPUs
+• A mode designed for handling arithmetic calculations
+√ An unrestricted mode where the CPU can execute any operation allowed by its architecture
+• A mode used only by virtual machines
+477. How can a user check the cache size in Windows 10?
+• Disable unnecessary background apps
+√ Open Task Manager, go to the Performance tab, then select CPU
+• Open the Control Panel and check storage settings
+• Run a command-line script
+• Use Windows File Explorer
+478. What occurs if cache memory is poorly managed?
+• The CPU stops functioning
+• Cache memory operates as a separate system
+• External memory is no longer required
+√ Frequent cache misses lead to performance delays
+• Data is permanently stored in registers
+479. What feature allows protected mode to simulate additional memory when needed?
+• Reducing CPU clock speed
+• Limiting the number of executed instructions
+• Increasing processor frequency
+√ Virtual memory allocation using the hard drive
+• Expanding cache size
+480. How does protected mode manage multiple programs efficiently?
+• It reduces access to virtual memory
+• It restricts execution speed
+• It disables cache memory
+√ Each program has its own assigned memory space to prevent conflicts
+• It limits multitasking operations
+481. What is a key advantage of protected mode over real mode?
+• It prevents the execution of 32-bit applications
+• It restricts access to all memory spaces
+• It only supports a single running application
+√ It allows full access to system memory without a 1MB limitation
+• It increases CPU temperature
+482. Which type of operating system uses protected mode?
+• Single-tasking OS like DOS
+• Outdated CPU architectures
+√ Multitasking operating systems
+• Low-power embedded systems
+• Systems that do not require memory management
+483. What advantage does real mode provide for legacy applications?
+• It enables advanced artificial intelligence processing
+• It speeds up multitasking performance
+• It replaces newer processor architectures
+√ It allows older software to run on modern processors without modification
+• It supports multi-core execution
+484. Why must every new processor be compatible with the original Intel 8088 chip?
+• To eliminate virtual memory dependencies
+• To optimize arithmetic calculations
+• To restrict access to modern applications
+√ To maintain support for legacy software programs
+• To ensure maximum cache performance
+485. What is a common use for real mode today?
+• Optimizing floating-point operations
+• Controlling input/output peripherals
+• Managing virtualized operating systems
+√ Running DOS and traditional DOS applications
+• Enhancing network communication
+486. Why do modern processors support real mode?
+• To improve graphics rendering performance
+• To disable multitasking capabilities
+• To increase the CPU clock speed
+• To eliminate memory constraints
+√ To ensure compatibility with older software programs
+487. How does DOS handle task execution?
+• It does not require processor memory
+• It operates solely on cloud-based processing
+• It allows multiple tasks to run simultaneously
+√ It is a single-tasking operating system, capable of running only one program at a time
+• It prioritizes network operations over local tasks
+488. How does Hypervisor Mode benefit virtualization?
+• It eliminates kernel operations
+• It replaces traditional CPU instruction sets
+√ It enables multiple operating systems to run simultaneously on the same hardware
+• It restricts access to external storage
+• It disables unnecessary CPU processes
+489. Which CPU mode connects directly to the operating system’s kernel?
+• Protected Mode
+• Virtual Mode
+√ Kernel Mode
+• Hypervisor Mode
+• User Mode
+490. What limitation existed in Real Mode?
+• It supported virtualization
+• It restricted multitasking operations
+√ It could only address 1MB of system memory
+• It was used exclusively for arithmetic calculations
+• It allowed unlimited memory allocation
+491. What is Virtual Mode used for?
+• Managing cache memory
+√ Allowing DOS programs to run under modern operating systems
+• Restricting CPU performance
+• Enhancing real-time system execution
+• Controlling input/output operations
+492. How does Protected Mode differ from Real Mode?
+• Protected Mode is exclusive to ARM processors
+• Real Mode disables all kernel operations
+√ Protected Mode allows full access to system memory and supports multitasking
+• Protected Mode restricts multitasking
+• Real Mode provides unlimited memory access
+493. What is one major benefit of embedded systems in industrial automation?
+• They primarily serve as decorative components in machinery
+• They slow down automation processes for better control
+• They reduce the overall computational capabilities of factory systems
+√ They enhance efficiency by providing real-time data for decision-making
+• They replace mechanical components in industrial robots
+494. How has the Internet of Things (IoT) impacted industrial applications of embedded computers?
+• It eliminates human supervision in industrial settings
+• It reduces the need for electrical power in factories
+√ It allows smart factory solutions that optimize operations through data analysis and remote monitoring
+• It increases manual labor requirements in manufacturing
+• It limits data collection capabilities in industrial machines
+495. How do embedded systems support robotics?
+• By replacing human workers in all industries
+• By improving the aesthetic design of robotic arms
+• By eliminating the need for sensors
+• By increasing the physical size of robots
+√ By enabling navigation and task execution
+496. How are embedded systems used in telehealth applications?
+• They replace traditional surgical procedures
+• They regulate the power supply to telehealth booths
+• They control the background music in waiting rooms
+√ They enable remote patient monitoring and data collection for proactive healthcare management
+• They minimize hospital construction costs
+497. What is one function of embedded computing in imaging systems?
+• Enhancing voice recognition in hospital intercoms
+• Adjusting room temperature in radiology labs
+• Cleaning medical equipment automatically
+√ Processing complex data for diagnostic purposes
+• Organizing patient appointment schedules
+498. How do embedded computers contribute to medical devices?
+• They enhance the design of hospital furniture
+• They regulate hospital lighting systems
+• They assist in managing cafeteria food schedules
+√ They improve patient outcomes by powering pacemakers, insulin pumps, and imaging systems
+• They control parking systems in medical facilities
+499. How do embedded systems contribute to electric vehicles?
+• They improve the aerodynamics of a vehicle
+• They enable manual gear shifting in electric cars
+• They eliminate the need for braking systems
+√ They manage battery performance, energy distribution, and vehicle diagnostics
+• They increase engine noise for a better user experience
+500. What safety feature in vehicles relies on embedded systems?
+• Sunroof automation
+• Heated seats
+• Car air freshener diffusion
+• Alloy wheel reinforcement
+√ Anti-lock braking systems (ABS)
+501. Which statement about SIMM is correct?
+• It allows for efficient data transfers without wear leveling.
+√ It was commonly used in older systems and requires matched pairs.
+• It operates on a 64-bit data bus.
+• It consumes less power than a DIMM.
+• It remains the industry standard for modern computers.
+502. Why did DIMM replace SIMM in modern computer architectures?
+• It is more expensive but less efficient.
+• DIMM modules require matched pairs for full functionality.
+• SIMM was designed exclusively for gaming applications.
+• It provides a higher voltage requirement.
+√ It doubles the data bus width, making it compatible with 64-bit processors.
+503. What is a key advantage of DIMM over SIMM?
+• DIMM requires additional cooling systems.
+√ Reduced power consumption and independent connectors.
+• SIMM is better for high-speed applications.
+• Lower performance but higher reliability.
+• SIMM is compatible with DDR4 memory.
+504. Which characteristic distinguishes SIMM from DIMM?
+• SIMM has independent connectors on both sides.
+• SIMM supports modern 64-bit processors.
+• DIMM operates on a 32-bit data bus.
+√ SIMM has connectors on only one side, which are shorted together.
+• DIMM requires installation in pairs.
+505. Why is flash memory slower for editing tasks?
+• Random-access speeds are higher than sequential speeds
+√ Data is rewritten in block units instead of individual bytes
+• It requires manual file compression before edits
+• It stores data in optical formats
+• It lacks built-in cache mechanisms
+506. What makes flash memory an efficient storage option?
+• It needs an external cooling system to function.
+• It demands frequent maintenance due to its complex design.
+• It operates at high voltages, increasing heat output.
+√ It consumes minimal energy and produces no sound.
+• It requires mechanical power to operate reliably.
+507. How does the speed of flash memory compare to HDDs?
+• Flash memory relies on optical storage techniques.
+• HDDs outperform flash memory in data transfer rates.
+• Flash memory loses data if power is interrupted.
+• HDDs are silent while operating, unlike flash memory.
+√ Flash memory transfers data much faster than HDDs.
+508. Why is flash memory considered versatile?
+• It is limited to desktop computers.
+• It requires frequent refresh cycles like DRAM.
+√ It comes in various form factors for different uses.
+• It functions only as a temporary data storage medium.
+• It is restricted to enterprise-grade devices only.
+509. Why is flash memory more durable than traditional hard drives?
+• It is prone to physical damage from vibrations.
+• It consumes significantly more power than HDDs.
+• It requires constant power to retain data.
+• It uses mechanical parts for data storage.
+√ It has no moving components.
+510. How is flash memory used in mobile devices?
+• Managing CPU operations
+• Enabling internet connectivity
+• Temporary caching of data
+• Acting as the primary source of RAM
+√ Storing the OS, files, and applications
+511. What types of devices commonly use HDMI for video connection?
+• Smartphones and tablets.
+• Microphones and voice recording equipment.
+• Audio mixing consoles and speakers.
+√ Computers, set-top boxes, game consoles, DVRs, Blu-ray or DVD players, and monitors or TV sets.
+• Routers and networking hubs.
+512. What is the primary purpose of HDMI?
+• It functions exclusively as an audio transmission interface.
+• It stores video files permanently on connected devices.
+• It enhances the internal processing speed of a computer system.
+• It replaces wireless communication technologies in multimedia devices.
+√ It serves as a digital video connection standard for high-quality HD video on televisions and computer monitors.
+513. What does HDMI stand for?
+• High-Density Media Input.
+• High-Resolution Display Integration.
+• Hyper Data Management Interface.
+√ High-Definition Multimedia Interface.
+• Hybrid Digital Media Integration.
+514. What was the original name of the game port?
+• Ethernet port.
+• FireWire port.
+• Universal Serial Bus (USB) port.
+• Peripheral Component Interconnect (PCI) port.
+√ Analog-to-digital port (A-to-D port).
+515. Why does the game port require constant CPU monitoring?
+• It regulates system cooling functions in gaming computers.
+• It stores temporary gaming data for later retrieval.
+• It limits the number of simultaneous connections for controllers.
+√ Since it is not interrupt-driven, the CPU must continuously check for joystick movements or button presses.
+• It enhances internet speed for online gaming sessions.
+516. What is the difference between single-port and dual-port game controllers?
+•
+A single-port supports only two-axis game controllers and enables joystick3 functions, while a dual-port supports both joystick1 and
+joystick2 functionalities.
+• A single-port is used exclusively for wireless controllers, while a dual-port supports wired controllers.
+• A dual-port provides better visual graphics for gaming applications.
+√
+A single-port supports only two-axis game controllers and does not enable joystick2 functions, while a dual-port supports both joystick1
+and joystick2 functionalities.
+• A single-port regulates the brightness of gaming monitors.
+517. What is the primary function of a game port?
+• It exclusively supports touch-based input devices.
+• It enhances the graphical processing capabilities of a computer.
+• It replaces wired network connections in gaming setups.
+√ It allows users to connect gamepads, joysticks, or other compatible devices to a computer system.
+• It stores gaming data permanently within the system.
+518. How does FireWire support high-speed data transfer?
+• It replaces wireless networks in modern computing.
+• It restricts peripheral connectivity to audio-only devices.
+• It limits transfer speeds to prevent system overload.
+• It requires multiple cables for high-speed communication.
+√ It allows large amounts of data to be transmitted quickly over a serial bus interface.
+519. What is the primary function of a FireWire port?
+• It enhances the computer’s wireless connectivity.
+• It functions exclusively as a decorative component in multimedia systems.
+• It stores large amounts of data permanently on connected devices.
+√ It provides a high-speed serial bus interface, primarily for audio and video devices like digital camcorders.
+• It replaces all wired connections in modern electronics.
+520. Why is Bluetooth considered a short-range wireless communication technology?
+• It provides unlimited data transfer across global networks.
+• It enhances internet speed rather than device connectivity.
+• It functions solely as a security feature in networking devices.
+√ It facilitates wireless connectivity over limited distances rather than long-range networks.
+• It eliminates the need for close device proximity during communication.
+521. What is the difference between incoming and outgoing Bluetooth ports?
+• The outgoing port regulates battery usage in wireless accessories.
+• The incoming port replaces traditional file storage on Bluetooth-enabled devices.
+√
+An incoming port receives a connection from Bluetooth devices, while an outgoing port requests a connection to other Bluetooth
+devices.
+• The outgoing port is used exclusively for audio transmission, while the incoming port handles data synchronization.
+• Both ports perform the same function and are interchangeable.
+522. What is the primary function of a Bluetooth port?
+• It stores large amounts of data permanently.
+• It serves exclusively as a decorative feature in electronics.
+• It enhances the computer’s processing power.
+• It replaces all wired communication methods.
+√ It enables wireless connections and data exchange between mobiles, computers, and other digital devices.
+523. How does sunlight affect IR signal reliability?
+• It eliminates interference issues in all IR applications.
+• It prevents overheating in IR-based communication devices.
+• It enhances data transmission by amplifying signal strength.
+√ Direct exposure to sunlight or strong artificial light sources can interfere with IR signals.
+• It increases signal reliability in outdoor environments.
+524. Why are IR ports unsuitable for long-range communication?
+• They regulate data transmission speed rather than range.
+• They replace wired connections in large-scale networks.
+• They enhance signal strength over extended distances.
+√ Their effective range is generally limited to a few meters.
+• They eliminate the need for direct device pairing.
+525. Why do IR ports require a direct line of sight?
+• They regulate the brightness of transmitting signals.
+• They are designed to function in enclosed spaces only.
+• They primarily serve as decorative components in electronic devices.
+√ The transmitting and receiving devices must face each other for communication, and obstacles can block the signal.
+• They store transmitted data permanently for future reference.
+526. How do IR signals enhance security in data transmission?
+• They store transmitted data permanently for easy retrieval.
+• They require constant encryption updates to maintain security.
+• They weaken data integrity by allowing external signal disruptions.
+• They restrict access to users, limiting overall transmission capabilities.
+√ They are less prone to interference and eavesdropping, providing a higher level of security.
+527. Why is implementing IR ports considered cost-effective?
+• They significantly increase production costs for manufacturers.
+• They require extensive hardware modifications, making them costly.
+• They involve complex installation processes, making them more expensive than alternatives.
+• They rely on high-end materials that raise overall expenses.
+√ They are relatively inexpensive compared to other wireless communication technologies.
+528. Why is IR port technology considered energy-efficient?
+• It eliminates the need for energy storage components in electronics.
+• It reduces device efficiency by limiting energy availability.
+√ It allows devices to operate for extended periods without consuming excessive power.
+• It relies on external battery sources to function.
+• It significantly increases power consumption in electronic devices.
+529. What makes iris recognition a highly secure authentication method?
+• It is primarily used for decorative security installations.
+• It enhances device processing speed instead of user authentication.
+• It requires additional hardware to store iris data permanently.
+√ It captures unique iris patterns that are difficult to replicate, ensuring reliable verification.
+• It limits access to biometric authentication systems for select users.
+530. Why is infrared light essential for iris recognition systems?
+• It eliminates the need for passwords in online authentication.
+• It replaces traditional fingerprint scanning in all security applications.
+• It enhances the brightness of the iris for visual appearance.
+√ It helps accurately map the intricate details of an individual’s iris for secure identification and verification.
+• It stores personal data directly on biometric scanners.
+531. How are IR ports used in security systems?
+• They enhance the physical durability of security devices.
+• They restrict access to digital databases.
+• They regulate the brightness of surveillance cameras.
+• They store security footage permanently.
+√ They are employed in biometric authentication, particularly iris recognition systems.
+532. How does a light pen detect its position on the screen?
+√ It uses light sensors to identify brightness changes
+• It connects to the computer wirelessly
+• It requires physical pressure to function
+• It tracks movement through infrared signals
+• It relies on external calibration tools
+533. What distinguishes a light pen from a traditional mouse?
+• It is strictly used for typing
+• It connects via Bluetooth only
+• It requires a flat surface to move on
+• It uses a rolling ball for navigation
+√ It allows direct interaction with the screen
+534. What is another name for a light pen?
+• Image scanner
+• Optical stylus
+• Wireless pointer
+• Digital eraser
+√ Electronic pen
+535. Which performance advantage do storage devices provide?
+• Limited storage for text-based files only
+• Inability to delete or modify stored files
+√ Efficient data transfer between multiple devices
+• Slow read/write operations on digital files
+• Fixed capacity that cannot be expanded
+536. Why did CD-ROMs gain rapid commercial acceptance in the computer industry?
+• They were faster than magnetic hard drives
+• CD-ROMs allowed unlimited rewrites of stored data
+√ They provided low-cost storage for large programs and databases
+• They were physically smaller than floppy disks
+• The technology relied on laser engraving instead of magnetism
+537. What does the term CD-ROM stand for?
+• Computer Data Recordable Optical Memory
+• Compact Data Retrieval Optical Mechanism
+• Centralized Disc Rewritable Operating Module
+√ Compact Disc Read-Only Memory
+• Circular Digital Recordable Optical Medium
+538. Which component is essential for sublimation printing to transfer ink onto fabric or materials?
+• Laser scanner
+√ Heat press
+• Inkjet nozzle
+• Mechanical needle
+• Magnetic drum
+539. What is the disadvantage of plotters compared to standard office printers?
+• Lower accuracy in line drawings
+• Limited compatibility with digital files
+• Inability to print in color
+• Reduced durability over time
+√ Larger size and higher cost
+540. What is one advantage of plotters over traditional printers?
+• Faster printing speed than laser printers
+• Limited resolution for large-scale prints
+• Compact and lightweight design
+√ Ability to print on a variety of flat materials
+• Exclusive use of ink cartridges
+541. Why are plotters useful for repeated, large-format printing?
+• They apply thermal printing techniques
+• They exclusively print raster images
+• They use high-speed laser technology
+• They rely on toner-based printing for better efficiency
+√ They can reproduce the same pattern thousands of times without image degradation
+542. What type of graphics do plotters primarily print?
+• Animated visuals
+• Raster images
+• 3D models
+• Photographs
+√ Vector graphics
+543. What is the primary difference between a plotter and a traditional printer?
+• Plotters rely on laser technology for image reproduction
+• Plotters use toner cartridges for printing
+• Plotters are designed for high-speed text output
+√ Plotters draw continuous lines, while printers use dots
+• Plotters cannot print on large sheets of paper
+544. Why does Blu-ray require a separate reader compared to CDs and DVDs?
+• Blu-ray discs are physically larger than DVDs
+• Blu-ray requires high-speed mechanical rotation
+• The file format is incompatible with standard optical drives
+√ It uses a blue-violet laser for greater data density
+• It operates using magnetic storage principles
+545. What is the key advantage of DVD-RW over DVD-R?
+• Faster read speeds for gaming applications
+√ Ability to write and erase data multiple times
+• Exclusive compatibility with Blu-ray drives
+• Higher storage capacity per layer
+• Built-in encryption for data protection
+546. What process do 3D printers use to create objects?
+• Electrically charging particles to form images
+• Burning designs onto materials using lasers
+• Removing excess material through cutting
+• Transferring ink onto a surface
+√ Additive manufacturing by layering material
+547. Which type of optical storage device has the highest capacity among standard consumer formats?
+• Compact Disc (CD)
+• 3.5-inch Floppy Disk
+• DVD-RW
+• CD-RW
+√ Blu-ray (BD)
+548. What distinguishes Blu-ray discs from standard DVDs?
+• Larger physical size
+• Use of magnetic encoding instead of optical
+• Exclusive use in computer hard drives
+√ Higher storage capacity and shorter-wavelength lasers
+• Ability to store only audio data
+549. Why do DVDs have higher storage capacity than CDs?
+• DVDs contain extra polycarbonate coating
+√ They use smaller data pits and tighter track spacing
+• DVDs store data using magnetic fields
+• CDs use a thicker laser wavelength
+• DVD drives spin at slower speeds
+550. Which type of DVD allows multiple data write and erase operations?
+• CD-R
+√ DVD-RW
+• CD-RW
+• Blu-ray
+• DVD-R
+551. Which type of CD allows multiple data write and erase operations?
+• CD-R
+√ CD-RW
+• DVD-RW
+• Blu-ray
+• DVD-R
+552. What was the primary reason for the decline in floppy disk usage?
+• Incompatibility with modern operating systems
+√ The rise of email attachments and other file transfer methods
+• Increased production costs
+• Limited storage capacity for images and audio
+• Excessive power consumption
+553. What type of paper is required for thermal printers?
+• Standard office paper
+√ Thermochromic-coated paper (thermal paper)
+• Fabric-based transfer sheets
+• Carbon-copy paper
+• Glossy photo paper
+554. How do dot matrix printers transfer ink onto paper?
+• Spraying tiny droplets of ink onto the paper
+√ Striking an ink-soaked ribbon with metal pins
+• Heating thermal paper to produce images
+• Sublimating dye onto the material
+• Using a laser to bond toner powder
+555. What component in LCDs helps control individual pixels for improved image quality?
+• Vacuum Tube
+√ Thin-Film Transistor (TFT)
+• Punch Card
+• Photovoltaic Cell
+• Magnetic Head
+556. Why does Blu-ray use blue-violet laser technology instead of red lasers like DVDs?
+• Blue light is absorbed better by the disc material
+√ Shorter wavelength allows for tighter data encoding
+• Blu-ray discs are physically larger than DVDs
+• Blue light has faster scanning speeds
+• Red lasers cause overheating in optical drives
+557. What is the primary reason Blu-ray discs can store more data than DVDs?
+• Larger physical disc size
+√ Use of a shorter-wavelength laser (405nm)
+• Thicker protective layer
+• Encoding data with magnetic storage
+• Higher rotational speed
+558. Which of the following is an example of magnetic recording used in computing?
+• CD-ROM
+√ Hard disk drive (HDD)
+• Blu-ray disc
+• Laser disk
+• Flash drive
+559. How did a floppy disk write binary data onto its surface?
+√ Magnetizing tiny spots in different directions
+• Storing data via wireless transmission
+• Burning pits onto the disk with a laser
+• Using electric charges in transistors
+• Encoding information with physical grooves
+560. Which size became the most commonly used floppy disk format by the 1990s?
+• 8-inch
+√ 3.5-inch
+• 12-inch
+• 2-inch
+• 5.25-inch
+561. What was the primary storage method used in floppy disks?
+• Optical storage
+√ Magnetic storage medium
+• Tape-based storage
+• Cloud storage
+• Solid-state flash memory
+562. What is the Roman numeral for the decimal number 80 and the decimal number for the Roman numeral XC?
+• LXX and 100
+• LXXX and 80
+• LX and 90
+√ LXXX and 90
+• LXXX and 100
+563. What is the Roman numeral for the decimal number 99 and the decimal number for the Roman numeral MXC?
+• LXIX and 109
+• XCIX and 1009
+√ XCIX and 1090
+• LXIX and 1090
+• XCIX and 990
+564. Convert the decimal number 155 to binary, octal and hexadecimal.
+• Binary: 10001011, Octal: 213, Hexadecimal: 8B
+• Binary: 10111011, Octal: 273, Hexadecimal: BB
+• Binary: 11011011, Octal: 313, Hexadecimal: AB
+√ Binary: 10011011, Octal: 233, Hexadecimal: 9B
+• Binary: 11111011, Octal: 353, Hexadecimal: CB
+565. Convert the decimal number 124 to binary, octal and hexadecimal.
+√ Binary: 1111100, Octal: 174, Hexadecimal: 7C
+• Binary: 1111000, Octal: 170, Hexadecimal: 78
+• Binary: 1110110, Octal: 176, Hexadecimal: 76
+• Binary: 1011100, Octal: 164, Hexadecimal: 5C
+• Binary: 1101110, Octal: 172, Hexadecimal: 6E
+566. Convert the decimal number 223 to binary, octal and hexadecimal.
+• Binary: 11011101, Octal: 335, Hexadecimal: DD
+√ Binary: 11011111, Octal: 337, Hexadecimal: DF
+• Binary: 11111111, Octal: 377, Hexadecimal: FF
+• Binary: 11010111, Octal: 327, Hexadecimal: D7
+• Binary: 11011011, Octal: 333, Hexadecimal: DB
+567. How many times can digits D, L, V be used in writing a number?
+• Twice
+• Five times
+• Four times
+√ Only once
+• Thrice
+568. How many times can the numbers M, C, X, I be repeated in the number entry?
+• No more than four times in a row
+• No more than seven times in a row
+• No more than six times in a row
+√ No more than three times in a row
+• No more than five times in a row
+569. What type of memory is described as volatile?
+• Hard Disk Drive (HDD)
+• Flash Drive
+• Compact Disc (CD)
+√ Random Access Memory (RAM)
+• Solid State Drive (SSD)
+570. Which of the following is not considered physical media for storing programs?
+• Hard disk
+• Floppy disk
+• USB drive
+√ Algorithms
+• CD-ROM
+571. What type of instructions do algorithms provide?
+• General guidelines
+√ Detailed instructions telling how to do something
+• Troubleshooting steps
+• Hardware installation guides
+• Visual representations
+572. What is the essence of software?
+• The packaging and branding
+• The user experience
+• The physical media on which programs are recorded
+• The graphical user interface
+√ The set of instructions that makes up the programs
+573. Where can programs be stored?
+• Only in cloud storage
+• Only on CD-ROM
+• Only on hard disk
+√ Hard disk, CD-ROM, or other media
+• Only on USB drives
+574. What does software consist of?
+• Physical hardware components
+• Computer peripherals
+• Network cables and connections
+√ Algorithms and their computer representations
+• User manuals and documentation
+575. What are the types of integrated circuits mentioned in relation to modern CPUs?
+• Small-scale integrated circuits (SSI) and medium-scale integrated circuits (MSI)
+• Complimentary metal-oxide-semiconductor (CMOS) and bipolar junction transistors
+• Analog integrated circuits (AIC) and digital integrated circuits (DIC)
+√ Large-scale integrated circuits (LSI) and very large-scale integrated circuits (VLSI)
+• Field-programmable gate arrays (FPGA) and application-specific integrated circuits (ASIC)
+576. What does symmetric encryption require the sender and receiver to have access to?
+• A key-exchange protocol
+• A digital certificate
+• A password-based system
+• Different keys
+√ The same key
+577. What is symmetric encryption also called?
+• Asymmetric encryption or a dual key system
+• One-time pad encryption or a rotating key system
+• Hash-based encryption or a checksum algorithm
+√ Private-key cryptography or a secret key algorithm
+• Public-key cryptography or a key-exchange algorithm
+578. What is Unicode?
+√ A universal character-encoding standard that supports codes for more than 149,000 characters
+• A data encryption protocol
+• A graphic design tool
+• A binary encoding standard for numeric data
+• A file compression algorithm
+579. What was one of the first globally significant character encoding standards with applications in data processing?
+• UTF-8
+√ ASCII
+• Unicode
+• EBCDIC
+• BCD
+580. What does Unicode represent?
+• Only English letters and numbers
+• Only graphical data
+• Only symbolic data
+√ Most written languages in the world
+• Only numeric data
+581. What is one key difference between ASCII and Unicode?
+• Unicode is only used for telecommunication devices, while ASCII is used for computers
+• ASCII includes all characters from all written languages
+• ASCII covers a larger number of characters than Unicode
+• ASCII is used for graphical data, while Unicode is used for text data
+√ Unicode covers a larger number of characters than ASCII
+582. How many characters does ASCII encode?
+• 32 characters
+• 64 characters
+√ 128 characters
+• 512 characters
+• 256 characters
+583. What are ASCII and Unicode used for?
+• To create graphics and animations
+• To control hardware devices
+√ To represent text in computers, telecommunication devices, and other equipment
+• To encrypt sensitive information
+• To compress files for storage
+584. What are Boolean expressions created by?
+• By using flowcharts
+• By analyzing statistical data
+• By combining numerical variables
+• By drawing logical diagrams
+√ By performing operations on Boolean variables
+585. What is the definition of inference?
+• A process for decision making
+• A strategy for problem-solving
+• A method for solving equations
+• A technique for data analysis
+√ A type of thinking that allows for a new judgment to be derived from one or more statements
+586. What is a condition for a linguistic sentence to be considered a statement?
+• It must contain a parameter
+• It must be a question
+• It must be a command
+√ It must be clearly classified as true or false
+• It must contain a condition
+587. Why is "2 * х= 20" not considered a statement?
+• Because it is a statement of opinion
+• Because it is a question
+• Because it is a command
+√ Because there is no way to determine whether the fact asserted is true or false
+• Because it is a greeting
+588. Which of the following is a statement?
+• "2*х=20"
+• "How are you?"
+• "What time is it?"
+√ "2*10=20"
+• "Can you help me?"
+589. What is the truth of compound statements determined by?
+• The calculus of statements
+• The statistics of statements
+• The geometry of statements
+• The arithmetic of statements
+√ The algebra of statements
+590. What is Boolean algebra?
+• A statistical method for analyzing data
+• A graphical representation of logical relationships
+• A method for encoding data in binary form
+√
+A mathematical system for the manipulation of variables that can have one of two values b. A mathematical system for solving
+equations
+• A mathematical system for solving equations
+591. What is the function of a transistor in an electronic circuit?
+• It converts sound signals
+• It amplifies light signals
+• It stores data
+• It generates electricity
+√ It acts like a switch
+592. In formal logic, what are the two values Boolean variables can have?
+• “High” and “low”
+• “Yes” and “no”
+• “Input” and “output”
+• “Positive” and “negative”
+√ “True” and “false”
+593. What is the kernel in an operating system?
+• Peripheral device for data input
+√ Software code that resides in the central core of the OS and has complete control over the system
+• Network protocol for communication
+• Display module for user interaction
+• Hardware component that executes user commands
+594. How is the mode changed from User to Kernel?
+• Using graphical interfaces
+• Using input/output operations
+√ Using system calls
+• Using memory management
+• Using processing program instructions
+595. What does the Kernel Mode control?
+• Providing the user interface
+• Interacting directly with the user
+• Running applications and accessing files
+√ Accessing system resources, controlling hardware functions, and processing program instructions
+• Loading the operating system
+596. What does the User Mode control?
+• Executing processes and handling interrupts
+• Changing mode from User to Kernel
+• Loading the kernel into the main memory
+√ Running applications and accessing files
+• Accessing system resources and controlling hardware functions
+597. What is a network operating system (NOS) intended to do?
+√ Facilitate communication between devices operating on a local area network (LAN)
+• Handle real-time constraints
+• Manage mobile computing devices
+• Provide a user-friendly graphical interface
+• Perform industrial control system tasks
+598. What is the principal difference between general-purpose and embedded operating systems?
+• Both types of OSs provide identical multitasking capabilities
+√ General-purpose OSs are designed for versatility, while embedded OSs are optimized for dedicated functions
+• General-purpose operating systems are only used in network devices
+• General-purpose OSs are mainly used in industrial automation instead of embedded Oss
+• General-purpose OSs consume fewer resources than embedded OSs
+599. Which operating system is designed for Apple's Macintosh line of PCs and workstations?
+• Unix
+• Android
+√ Mac OS
+• Linux
+• Windows
+600. Which operating system is Microsoft's flagship OS?
+• Mac OS
+• Android
+• Linux
+√ Windows
+• Unix
+601. What is a general-purpose operating system designed to do?
+• Operate with real-time constraints
+• Handle only one specific task
+• Facilitate communication between devices on a local area network
+• Manage mobile computing and communication-centric devices
+√ Manage hardware resources efficiently while providing a flexible environment for running various applications
+602. How many levels of cache do most modern CPUs have?
+• Only one level
+• A single integrated memory unit
+• Only two levels
+√ Multiple levels, typically L1, L2, and L3
+• Five or more levels
+603. What role does an instruction set play in computing?
+• It eliminates the need for compilers
+• It enhances memory storage efficiency
+• It reduces the number of registers needed
+√ It defines the collection of instructions that a CPU can execute
+• It controls power usage in processors
+604. Why do we use assembly language instead of machine code?
+√ Because it provides human-understandable instructions that are converted into machine opcodes
+• Because it is stored permanently in the CPU
+• Because it replaces binary processing
+• Because it limits instruction complexity
+• Because it runs faster than machine code
+605. How do CPUs execute instructions?
+√ By triggering transistors to turn ON and OFF
+• By executing multiple programs simultaneously
+• By storing program instructions permanently
+• By directly processing human-readable commands
+• By reducing hardware complexity
+606. What is the primary purpose of RISC and CISC processor architectures?
+√ Boosting CPU performance by utilizing different instruction sets
+• Managing power distribution
+• Controlling external peripherals
+• Reducing clock speed
+• Expanding memory capacity
+607. What are the two ways to optimize CPU performance?
+• Expand cache memory and improve cooling systems
+• Increase CPU clock speed
+• Use more registers and increase CPU clock speed
+• Improve cooling systems and increase CPU clock speed
+√ Reduce the number of instructions per program or minimize cycles per instruction
+608. What optimization method focuses on executing multiple instructions concurrently?
+• Simplifying instruction sets
+• Expanding registers
+• Increasing clock speed
+√ Parallel processing
+• Reducing memory allocation
+609. What is the primary application of magnetic tape?
+• Instant memory access for real-time computing tasks
+• Eliminating traditional storage formats from computing
+• Providing direct CPU access to all stored files
+√ Data archiving, collection, and backup for various data types
+• Replacing all solid-state memory components
+610. How does a magnetic disk store and retrieve data?
+• By encoding data through electrical impulses
+• By restricting data storage to temporary memory locations
+• By eliminating the need for physical disk rotation
+√ By using magnetization processes to write, rewrite, and access data
+• By converting stored data into optical signals
+611. Which of the following are examples of auxiliary memory?
+• CPU registers and cache memory
+• Optical memory with no storage capabilities
+• Solid-state drives only
+√ Magnetic tapes and magnetic disks
+• DRAM and SRAM
+612. Why is auxiliary memory used in computer systems?
+• To store frequently accessed instructions temporarily
+• To eliminate physical storage dependencies
+• To replace RAM in high-performance computing
+• To speed up cache memory operations
+√ For long-term storage and programs that are not in immediate use
+613. What are the defining features of auxiliary memory?
+• Storage devices with unlimited access speed
+• Temporary storage is used for immediate processing
+• Fastest-access and most expensive storage in a computer system
+• Temporary storage is used for immediate processing
+√ Lowest-cost, highest-capacity, and slowest-access storage
+614. Why was Memory Hierarchy Design introduced?
+• To increase the physical size of memory modules
+• To remove the need for hierarchical storage layers
+• To replace primary memory with external storage
+√ To minimize the speed gap between CPU registers and Main Memory
+• To prevent applications from accessing memory directly
+615. What is the primary role of Memory Hierarchy Design in computing?
+• To replace all forms of memory with a single storage device
+• To allow direct user management of system memory allocation
+• To reduce memory usage for small-scale applications
+√ To structure different types of memory based on access speed and function
+• To increase processor speed without hardware upgrades
+616. Which of the following is included in Internal Memory (Primary Memory)?
+• Network Memory Allocation and Virtualized Storage
+• Removable Storage Media and CPU Registers
+• Optical Drives and Hard Disk Storage
+• File Storage Devices and External Backup Systems
+√ Main Memory, Cache Memory, and CPU Registers
+617. How do portable scanners help with document management?
+• Require a high-resolution display for viewing
+• Only work with desktop computers
+√ Reduce paper clutter and sorting time
+• Cannot scan images or text
+• Require manual data entry after scanning
+618. What is the advantage of using a portable scanner?
+• Requires wired connections for operation
+• Cannot be stored on cloud services
+√ Quick and simple document and image scanning
+• Limited to only black-and-white scanning
+• Requires external power sources
+619. How does a sheet-feeder scanner operate?
+• Cannot handle single-page documents
+• Requires manual movement of the document
+• Only works with handwritten text
+√ Automatically passes the sheet through the machine for scanning
+• Limited to grayscale images
+620. What defines a handheld portable scanner?
+• Cannot be used for book pages
+• Only scans black-and-white documents
+• Requires a stationary surface for scanning
+• Uses a built-in touchscreen for operation
+√ Passed over the document manually for digitization
+621. What is the primary use of an interactive whiteboard?
+• Exclusively used for gaming setups
+• Limited to standard classroom applications
+√ Allows users to present and control the computer screen contents
+• Requires a high-resolution projector for operation
+• Cannot display dynamic images in real time
+622. What input methods can be used to interact with an interactive whiteboard?
+• Requires a physical keyboard for navigation
+• Only pre-configured stylus pens
+• Cannot function with touchscreen controls
+• Limited to infrared sensors
+√ Fingers, pens, or other pointing devices
+623. How does a scanner help businesses share documents?
+• Only works with sheet-fed models
+• Limited to only printed images
+• Requires internet access for scanning
+• Cannot scan text-based documents
+√ Converts hard copies into digital files for remote access
+624. What is the key benefit of having USB ports on a monitor?
+• Reduces overall power consumption
+√ Allows easy connection of peripherals like a mouse and keyboard
+• Limited to gaming monitors
+• Requires additional drivers for compatibility
+• Only used for charging mobile devices
+625. What is a key factor when choosing a high-resolution monitor?
+• Always has a lower refresh rate
+• Cannot be used for professional applications
+• Reduces screen brightness significantly
+√ Requires a powerful graphics card for optimal performance
+• Limited to budget-friendly models
+626. What is a common characteristic of lower-priced monitors?
+• Require high-power input
+• Limited to touchscreen functionality
+• Always have OLED panels
+• Designed exclusively for gaming
+√ Smaller screen sizes, often around 20 inches
+627. What is an important consideration when choosing a monitor?
+• Always comes with built-in speakers
+√ Cost, resolution, refresh rate, and size
+• Only color accuracy
+• Limited to curved screens
+• Requires a dedicated graphics card
+628. What differentiates plasma monitors from LCD screens?
+• Requires edge-lighting for better brightness
+• Always has lower contrast than LED models
+√ Thinner but heavier compared to LCD displays
+• Uses only capacitive touch technology
+• Limited to gaming applications
+629. How do plasma monitors produce images?
+• Requires LED backlighting for operation
+√ Uses colored fluorescent lights for pixels
+• Uses OLED technology for higher contrast
+• Relies on mechanical components for image generation
+• Limited to monochrome displays
+630. What is a key characteristic of CRT monitors?
+• Exclusively used for portable devices
+• Uses LED for backlighting
+• Always thinner than LCD screens
+√ Older technology that consumes more energy
+• Limited to high-definition resolutions
+631. How does OLED differ from LED displays?
+• Cannot display high-definition content
+• Always requires an external cooling system
+• Consumes significantly more power than LEDs
+√ Offers better contrast and response time
+• Limited to gaming applications only
+632. What makes OLED displays unique?
+• Requires a backlight like traditional LCDs
+• Limited to non-HD resolutions
+• Uses only fluorescent lighting for brightness
+√ Uses organic materials to emit light
+• Always has a shorter lifespan than any other display technology
+633. How does data compression optimize data processing and analytics?
+• Compressed data needs more resources for processing
+• Compressed data requires more processing time
+• Compressed data is harder to analyze
+√ Compressed data can be processed and analyzed more quickly
+• Compressed data is less accurate for analytics
+634. How do data compression algorithms reduce storage costs for businesses?
+• By encrypting data before storage
+• By storing data in multiple formats
+• By creating backups of data
+√ By compressing data, businesses can significantly reduce storage requirements
+• By duplicating data across multiple storage devices
+635. Which of the following is NOT a common Boolean operator?
+• AND
+• XOR
+√ SUM
+• NOT
+• OR
+636. How are Boolean expressions created?
+• By using flowcharts
+• By combining numerical variables
+• By drawing logical diagrams
+√ By performing operations on Boolean variables
+• By analyzing statistical data
+637. How does data compression increase data security?
+• Compressed data is less secure
+• Compressed data is harder to protect
+• Compressed data increases the risk of data breaches
+√ Compressed data can be encrypted more effectively, enhancing data security by reducing the attack surface
+• Compressed data cannot be encrypted
+638. What does Multicore Architecture aim to achieve?
+• Enhancing data security
+• Reducing power consumption
+• Increasing memory capacity
+• Simplifying software development
+√ Doing more tasks concurrently and improving overall system performance
+639. What is Multicore Architecture?
+• A graphical user interface for operating systems
+• Multicore architecture is a method for encrypting data
+• A design for storing data in multiple locations
+√ Multicore architecture refers to a processor design that integrates multiple processing units (cores) within a single chip
+• A protocol for network communication
+640. What is the main advantage of SIMD architecture?
+• The improvement in user interface design
+• The reduction in hardware costs
+• The increase in memory usage
+√ The ability to process multiple data points concurrently
+• The simplification of programming languages
+641. In SIMD architecture, how do processors operate on data?
+• All processors operate on the same data packet sequentially
+• All processors execute the same data packet
+• All processors perform different instructions simultaneously
+• All processors share the same memory unit
+√ All processors receive an identical command from the control unit yet operate on distinct data packets
+642. In Client-Server Architecture, what do client computers do?
+• Store data permanently
+• Display processed data to the user
+• Manage input and output devices
+√ Request services from the server and receive the server’s reply
+• Execute arithmetic and logical operations
+643. What is Microarchitecture described as?
+• The physical structure of computer networks
+• The layout of software libraries
+√ The purpose-built logical arrangement of the microprocessor’s electrical components and data pathways
+• The organization of storage devices
+• The configuration of peripheral devices
+644. What does Microarchitecture focus on?
+• The encryption and decryption of data
+• The physical design of input devices
+• The graphical user interface design
+• The development of network protocols
+√ The implementation of how instructions will be executed at a lower level
+645. What role does ISA play in user-computer communications?
+• Encrypting data for secure transmission
+• Controlling peripheral devices
+• Managing memory usage
+√ Translating high-level language into binary language
+• Rendering graphics on the screen
+646. What does Instruction Set Architecture (ISA) function as?
+• A physical component of the microprocessor
+• A network protocol for data transmission
+• A user interface for operating systems
+√ A bridge between the software and hardware of a computer
+• A method for storing data permanently
+647. What is the purpose of interrupts in a computer system?
+√ To redirect the processor from the current program to handle an occurrence
+• To manage input and output devices
+• To execute arithmetic and logical operations
+• To store data permanently
+• To display processed data to the user
+648. What is the characteristic of ROM?
+• It supplies the necessary information straight to the CPU
+• It stores data temporarily
+√ It contains pre-installed instructions, including firmware, and its content is persistent and cannot be modified
+• It receives information from input devices
+• It delivers the computer process’s results to the user
+649. How do processors in distributed systems communicate with each other?
+• Through shared memory exclusively.
+• By relying solely on email-like systems.
+• By executing jobs independently without interaction.
+• By using only physical connections.
+√ Through communication lines like high-speed buses or telephone lines.
+650. How do distributed systems serve multiple real-time applications and users?
+• By avoiding the use of communication lines.
+• By focusing on batch processing exclusively.
+• By relying on a single central processor.
+• By distributing jobs only among identical processors.
+√ By using multiple central processors.
+651. What happens if one processor fails in a multiprocessor operating system?
+• Failed processor data is automatically discarded.
+• Remaining processors independently execute new processes.
+• It depends on the CPU architecture
+• Data loss occurs for all ongoing processes.
+√ Another processor retrieves the interrupted process state to continue execution.
+652. What is a defining feature of multiprocessor operating systems?
+• Restricted physical and virtual address space.
+• No mechanism for inter-process communication.
+• Execution of a single job across multiple processors.
+• Processors operate independently with no communication.
+√ More than one processor in close communication that shares the computer bus, clock, and sometimes memory and peripheral devices.
+653. Why are NVIDIA RTX Embedded GPU solutions widely adopted?
+• Short life cycle support
+• High cooling requirements
+• No support for edge AI
+√ Power efficiency and AI acceleration
+• Limited computing capabilities
+654. What is the primary advantage of embedded GPUs in mobile healthcare devices?
+• Slow image processing
+• Low-cost components
+• High power consumption
+√ Compact design with powerful visualization
+• Limited AI capabilities
+655. What is a key advantage of 64-bit Extension Mode?
+• It prevents virtualization capabilities
+• It limits multitasking execution
+• It allows processors to utilize 32-bit instruction sets and registers for improved performance
+• It reduces CPU processing speed
+√ It allows processors to utilize 64-bit instruction sets and registers for improved performance
+656. How does Long Mode handle 32-bit and 16-bit applications?
+• It requires external hardware acceleration
+• It relies solely on cache memory optimization
+• It prevents the execution of older programs
+• It replaces memory management techniques
+√ It executes them in a compatibility sub-mode
+657. What type of applications utilize 64-bit Extension Mode?
+• DOS-based applications exclusively
+• Only 32-bit legacy programs
+• Low-power embedded systems
+• Single-threaded operating systems
+√ 64-bit applications that require access to 64-bit instructions and registers
+658. What is another name for 64-bit Extension Mode?
+• Real Mode
+• Cache Mode
+• Virtual Mode
+• Protected Mode
+√ Long Mode
+659. How does Virtual Mode differ from Protected Mode?
+• It prevents multitasking execution
+• It only functions on single-core processors
+√ It allows compatibility with older software by enabling memory access similar to Real Mode
+• It speeds up CPU clock cycles
+• It eliminates memory constraints entirely
+660. When is Virtual Mode commonly used?
+√ When running a DOS box or DOS games in Windows 95
+• When restricting system processes
+• When optimizing power efficiency
+• When executing modern graphical applications
+• When managing cloud-based storage
+661. What is the primary function of Virtual Mode?
+• It prevents DOS applications from running
+• It restricts multitasking capabilities
+• It disables graphical interfaces
+√ It enhances Protected Mode
+• It replaces Real Mode entirely
+662. How does protected mode enhance security compared to real mode?
+• It increases overall clock speed
+• It eliminates CPU architecture limitations
+• It removes memory allocation restrictions
+√ It isolates memory spaces to prevent conflicts between running programs
+• It allows direct modification of system instructions
+663. How do embedded systems contribute to aerospace and defense operations?
+• They primarily serve as decorative components in aircraft.
+• They limit the computational capabilities of unmanned aerial vehicles (UAVs).
+• They eliminate the requirement for weather monitoring in aviation.
+√ They ensure safety and efficiency by managing flight control, navigation systems, and avionics.
+• They reduce the need for communication between pilots and ground control.
+664. How will embedded computers shape the future of telecommunications with 5G technology?
+• They will restrict network access for mobile devices.
+• They will primarily function as storage units for telecommunications data.
+• They will eliminate the need for signal towers.
+• They will reduce internet speed for better stability.
+√ They will support more complex networks and enable higher data transfer rates.
+665. What role do embedded systems play in base stations and routers?
+• They replace fiber-optic cables in high-speed networks.
+• They limit bandwidth allocation for mobile networks.
+• They regulate temperature settings in telecommunications offices.
+• They improve the visual appeal of networking hardware.
+√ They handle data traffic and ensure stable user connectivity.
+666. How do embedded systems enhance wearable technology, such as fitness trackers and smartwatches?
+• They serve solely as accessories without functional capabilities.
+• They limit synchronization capabilities with mobile phones.
+• They replace traditional charging methods.
+√ They collect, analyze, and transmit data so users can monitor health metrics in real time.
+• They reduce device weight without affecting functionality.
+667. How do embedded systems support smart TVs?
+• They restrict internet access on smart TVs.
+• They control screen brightness adjustments only.
+• They provide only audio functions for the television.
+√ They manage applications, video processing, and user interfaces.
+• They allow the television to operate without electrical power.
+668. What role do embedded systems play in consumer electronics?
+• They enhance the visual design of electronic devices.
+• They limit wireless communication capabilities.
+• They replace mechanical buttons with touchscreens.
+√ They enable functionality and connectivity in devices like smartphones, tablets, and smart home gadgets.
+• They reduce the size of screens on mobile phones.
+669. What hardware device is required to program a PROM?
+• Magnetic field controller
+• UV light source
+• Optical encoder
+• Electrical signal generator
+√ PROM programmer or PROM burner
+670. Why is VGA considered an older video standard?
+• It eliminates the need for physical connections in display setups.
+• It restricts the resolution of all multimedia outputs.
+• It enhances the processing speed of connected devices.
+√ It uses analog signal transmission instead of digital, which limits its compatibility with modern high-definition displays.
+• It stores video data permanently within the system.
+671. What is the maximum refresh rate HDMI supports?
+• 30 Hz.
+• 120 Hz.
+• 60 Hz.
+√ 240 Hz.
+• 144 Hz.
+672. What is the maximum refresh rate supported by VGA?
+• 30 Hz.
+• 240 Hz.
+• 120 Hz.
+√ 60 Hz.
+• 144 Hz.
+673. Why is HDMI widely supported by modern devices?
+• It enhances internet speed rather than video quality.
+• It exclusively functions as a wireless communication technology.
+• It replaces all analog display standards in older computers.
+• It stores video files permanently on connected devices.
+√ It allows high-definition video and audio transmission, making it suitable for a variety of multimedia applications.
+674. How did the term “modem” originate?
+• It signifies the processing speed of network connections.
+• It was created as a marketing term for internet companies.
+√
+It comes from the process of modulation and demodulation, where digital signals are converted to analog for transmission and then back
+to digital for reception.
+• It refers to the storage capacity of connected devices.
+• It was originally used to describe wireless communication in early networks.
+675. Why do modern modems often include built-in Wi-Fi support?
+• They regulate battery usage in internet-connected devices.
+• They exclusively function as wired communication units.
+√ They allow devices to connect wirelessly without needing additional hardware.
+• They replace the need for routers in home networks.
+• They primarily serve as security components in online connections.
+676. What is the difference between a modem and a router?
+√
+A modem handles an internet connection, while a router allows multiple devices to connect and communicate without requiring direct
+internet access.
+• A router functions solely as a storage unit for internet data.
+• A router replaces all wired connections in a home network.
+• Both devices perform identical functions without any distinction.
+• A modem enhances wireless signal strength.
+677. What is modulation and demodulation in the context of modems?
+• Demodulation replaces traditional storage methods for data transfer.
+• Modulation eliminates the need for internet access in modern systems.
+√ Modulation converts digital signals into analog for transmission, while demodulation translates incoming analog signals back into
+digital.
+• Both processes serve only aesthetic purposes in electronic devices.
+• They function exclusively as security features in communication networks.
+678. What is the primary function of a modem?
+• It eliminates the need for wired communication.
+• It enhances the computer’s processing speed.
+• It stores large amounts of data permanently.
+√ It serves as a gateway to the internet, translating digital signals into analog for transmission and vice versa.
+• It regulates the brightness of a computer screen.
+679. What is the key difference between VGA and HDMI?
+• VGA supports wireless video output.
+• HDMI primarily functions as an audio interface.
+√ VGA uses an analog signal, while HDMI transmits digital signals.
+• HDMI replaces VGA entirely in older systems.
+• Both use the same technology for video transmission.
+680. Why was VGA created?
+• It replaced touchscreen interfaces in early computing.
+• It regulated power consumption in display devices.
+√ It was developed by IBM in 1987 for the IBM PS/2 series of computers.
+• It served as a wireless communication method in multimedia systems.
+• It was designed exclusively for gaming consoles.
+681. What does VGA stand for?
+• Versatile Graphics Application.
+• Variable Gain Amplifier.
+√ Video Graphics Array.
+• Virtual Gaming Adapter.
+• Visual Graphics Architecture.
+682. How does a Type E HDMI connector differ from the others?
+• It replaces analog display outputs in older monitors.
+• It eliminates the need for direct physical connections.
+√ It is designed for industrial and automotive applications rather than common consumer electronics.
+• It is exclusively used for handheld gaming consoles.
+• It prioritizes audio transmission over video quality.
+683. What is the purpose of a Type A HDMI connector?
+• It functions as a storage unit for high-definition media files.
+• It enhances the sound quality of digital audio systems.
+• It exclusively supports wireless communication between multimedia devices.
+√ It is used to connect gaming consoles, Blu-ray players, and other source devices to monitors or TVs.
+• It replaces standard charging ports in electronic devices.
+684. What are the four sizes of HDMI connectors?
+• High-Speed, Ultra-Speed, Basic, and Portable.
+• Consumer, Professional, Compact, and Enterprise.
+• Large, Medium, Small, and Industrial.
+• Wireless, Optical, Digital, and Analog.
+√ Standard, Mini, Micro, and Automotive.
+685. How do scanners contribute to retail stores?
+• They enhance the visual appearance of barcodes
+• They reduce the number of customers at checkout
+• They help design new product packaging
+√ They capture product details like price and expiration date
+• They automatically update stock levels without a database
+686. What is a key characteristic of flatbed scanners?
+• They are primarily designed for 3D scanning
+• They use thermal printing technology
+• They require paper feeding mechanisms
+√ They have a large glass surface and a lid
+• They only work with high-resolution images
+687. What types of objects work best with flatbed scanners?
+• Objects that emit their own light
+• Cylindrical objects like bottles
+• Large furniture pieces
+√ Flat items such as photos and paper
+• Transparent surfaces only
+688. Where are flatbed scanners most commonly used?
+• Outdoor construction sites
+• Aircraft navigation systems
+• Deep-sea exploration labs
+√ Homes and small offices
+• Large warehouses for inventory scanning
+689. What technology does a standard barcode scanner use?
+• Ultrasonic waves
+• Optical fibers
+• Infrared scanning
+• Magnetic resonance
+√ Laser shaft technology
+690. What is the primary function of a barcode reader?
+• Encrypting product details for security
+• Printing barcodes onto products
+• Detecting counterfeit products
+• Generating random serial numbers for items
+√ Converting barcode information into alphanumeric data
+691. How is a barcode scanner usually connected to a computer system?
+• Wi-Fi direct link
+• Optical lens synchronization
+• Manual input via keyboard
+√ USB or Bluetooth interface
+• Infrared transmission
+692. What distinguishes a 2D barcode from a standard barcode?
+• It does not require a computer for processing
+• It is only readable by handheld scanners
+• It is designed exclusively for retail products
+√ It can store more complex data, including text and images
+• It consists of horizontal lines only
+693. What is a major advantage of modern scanners?
+• Requires complex setup
+• Low-quality output
+• Cannot connect to other devices
+√ High-speed processing
+• Limited storage space
+694. Which feature makes scanners easy to integrate with computers?
+• Exclusive compatibility with specific operating systems
+• Cannot be used for document editing
+• No software support for modifications
+√ Multiple connectivity options (USB, Wi-Fi, parallel ports)
+• Requires manual input for each scan
+695. Why are scanners widely accepted in various industries?
+• They have complex handling procedures
+• They require large workspace setups
+• They only work with specific documents
+√ They provide consistent, high-quality scans
+• They need frequent recalibrations
+696. How do scanned files impact computer storage?
+• They store files externally by default
+• They compress files automatically
+• They increase available storage
+√ They take up significant space on hard drives
+• They delete older files to save space
+697. What is the primary function of a light pen?
+• Managing system software
+• Enhancing screen brightness
+√ Pointing and selecting objects on a computer screen
+• Storing large amounts of data
+• Printing documents

@@ -1,1 +1,2 @@
-# compquiz2
+# compquiz
+It's Quiz
